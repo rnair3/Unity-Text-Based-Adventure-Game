@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  storyText: "\tKABBOOOM!\r\n\tYou zip out the bottom of the chute just as the plant
+    blows up. A moment later you are surrounded by cheering rebels.\r\n\t\u201CYou
+    did it!\u201D Jarmal slaps you on the back. \u201CThe war isn\u2019t over yet,
+    but I am sure that we will win.\u201D\r\n\t\u201CNow help me find my brother,\u201D
+    you say.\r\n\t\u201CI\u2019ve located him on the space station,\u201D Jarmal tells
+    you. \u201CSome of the rebels sent him there for safety.\u201D\r\n\t\u201CI have
+    to go there,\u201D you say.\r\n\tJarmal nods and leads you to a small space shuttle.
+    \u201CThis will take you there,\u201D he tells you. \u201CGood luck.\u201D\r\n\tYou
+    say good-bye, then strap yourself into the automated ship.\n\n\tPress 1 to blast
+    off"
+  nextStates:
+  - {fileID: 11400000, guid: f7ccf425545eb364bada13f664c42403, type: 2}

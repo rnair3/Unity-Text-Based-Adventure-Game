@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 67
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019ve got to hit the brakes. The truck is speeding along even
+    faster than before. You try to reach the brake pedal with your foot \u2014 but
+    you can\u2019t reach!\r\n\tWith horror you watch as your family steps into the
+    intersection. You dive down to the floor of the truck. Using both hands, you push
+    on the brake pedal as hard as you can.\r\n\tSCREEEEEECH!!!!\r\n\tWill it stop?\n\n\tPress1
+    to see what happens next"
+  nextStates:
+  - {fileID: 11400000, guid: ec421efb968bd8744baa224ff2e7dcfb, type: 2}

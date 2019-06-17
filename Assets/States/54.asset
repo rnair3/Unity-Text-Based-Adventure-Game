@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 54
+  m_EditorClassIdentifier: 
+  storyText: "\tYou glide through the mist toward the New York City street where you
+    saw the red-haired boy. Honking taxis, buses, and trucks zip along the street.
+    Tall buildings surround you. On the streets, people are shouting, arguing, and
+    laughing.\r\n\tUh-oh. This looks exactly like New York City in the present. Maybe
+    something went wrong with the chronometer.\r\n\tYou glance around for the red-haired
+    kid you saw. But you don\u2019t see him anywhere.\r\n\tYou approach a corner newsstand.
+    \u201CExcuse me,\u201D you say to the vendor. \u201CCan you tell me how to get
+    to the Museum of Natural History?\u201D\r\n\t\u201CWhat do I look like, an information
+    booth?\u201D he snaps back at you.\r\n\t\u201CNever mind,\u201D you mutter. \u201CWho
+    needs your \u2014\u201D\r\n\tThen you notice a stack of newspapers. The one on
+    top has tomorrow\u2019s date. You\u2019re in the future all right \u2014 one crummy
+    day in the future!\r\n\tNo fair! you think. You\u2019re about to push the right-hand
+    button on the chronometer to travel further into the future when something makes
+    you gasp.\n\n\tPress 1 to find out"
+  nextStates:
+  - {fileID: 11400000, guid: 9e32db9dfbbbeda4e8d5ab80be69022f, type: 2}

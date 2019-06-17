@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 95
+  m_EditorClassIdentifier: 
+  storyText: "\tYou yank your hand away from the lion. To your surprise, it lets you
+    go. But just as you are about to press the buttons on the chronometer, the lion
+    pounces on your brother, knocking you both over.\r\n\tThe chronometer flies out
+    of your hand. At the same moment, there\u2019s a loud pop! Denny disappears into
+    the air. With a squeak of surprise, the lion disappears, too!\r\n\tYou look all
+    around, but there\u2019s no sign of either your brother or the beast. And the
+    chronometer lies smashed on the floor.\r\n\tOh, no! Now you\u2019ve done it. Maybe
+    the wizard can help you.\r\n\tYou wander back through the castle, trying to find
+    the wizard\u2019s lair. At last you come to the door labeled: LAIR OF THE WIZARD.\n\n\n\tPress
+    1 to see the wizard"
+  nextStates:
+  - {fileID: 11400000, guid: 258ce68f0d0bf104a9cc98c61fc257b6, type: 2}

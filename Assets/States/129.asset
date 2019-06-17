@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 129
+  m_EditorClassIdentifier: 
+  storyText: "\tAll right! The robot fell for it!\r\n\tYou can see yourself stepping
+    into the Chronoport. Then you hear Dr. Peebles say: \u201COne more thing! Remember
+    to hold the buttons down for at least five seconds!\u201D\r\n\tThat\u2019s exactly
+    what you needed to hear. Now you know how to make the chronometer work! But you
+    still can\u2019t find Denny.\r\n\t\u201CI don\u2019t believe your Teletime machine
+    really shows the past,\u201D you say.\r\n\t\u201CWhat!!??\u201D the robot roars.
+    \u201CHow dare you insult my machine!\u201D Its finger moves closer to the trigger.\r\n\t\u201CIf
+    it really works,\u201D you say quickly, \u201Cthen show me the present.\u201D\r\n\t\u201CThe
+    present?\u201D the robot cries.\r\n\t\u201CYes!\u201D You nod. \u201CThe scenes
+    from the past could have been films or videotapes. If I see scenes from the present,
+    I\u2019ll believe the machine really works.\u201D\r\n\t\u201CVery well,\u201D
+    the robot grumbles. \u201CBut right afterward I will take pleasure in vaporizing
+    you. Any particular scene in the present?\u201D it adds sarcastically.\r\n\tYou
+    smile. Your plan is working.\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 701ee80375812b646a665ee4d06d5c45, type: 2}

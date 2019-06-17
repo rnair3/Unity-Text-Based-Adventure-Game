@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 125
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CPlease help me!\u201D you beg the robot. \u201CI\u2019m looking
+    for my brother and \u2014\u201D\r\n\t\u201CSilence, intruder,\u201D the robot
+    commands. Keeping its laser trained on you, it waves you over to a chair in front
+    of one of the monitors.\r\n\t\u201CYou will be my helper in the Teletime room,
+    human. I need someone to help me study the past,\u201D the robot explains. It
+    points to one of the monitors. \u201CYou will watch this screen all night and
+    all day and report to me on what you see.\u201D\r\n\tThat\u2019s not bad, you
+    think. At least I\u2019ll get to watch TV!\r\n\tYou settle into one of the cushioned
+    chairs opposite the monitor. On the screen, George Washington is crossing the
+    Delaware River. You watch him do it again.\r\n\tAnd again.\r\n\tIt\u2019s interesting
+    the first few times, but after that you get bored. Really bored.\r\n\tThe days,
+    months, and finally years slowly pass. George is still crossing the river. And
+    you\u2019re still watching.\r\n\tCompared to this nonstop history lesson, going
+    to museums with your parents was a total blast!\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

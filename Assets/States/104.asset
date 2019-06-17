@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 104
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CExcuse me,\u201D you say, walking over to the truck driver.
+    \u201CThe dispatcher asked if you could take me on your delivery. My uncle owns
+    the store you\u2019re delivering to, and I need a ride there.\u201D\r\n\t\u201CSure,
+    kid,\u201D he says. \u201CWhy not?\u201D\r\n\tYou follow him to the green truck.
+    He opens the back. Cases of fresh fish are piled inside. The dead fish stare at
+    you with cold, empty eyes.\r\n\t\u201CHop in,\u201D the driver says.\r\n\t\u201CIn
+    there? B-but \u2026\u201D you stammer.\r\n\t\u201CThe cab\u2019s full,\u201D he
+    says. \u201CDo you want a ride or not?\u201D\r\n\t\u201CUh \u2026\u201D You really
+    need to be in the front with him. But you don\u2019t know what else to do, so
+    you climb into the back of the truck and sit down.\r\n\tWhen the driver shuts
+    the door, everything goes dark. You can\u2019t believe how bad it smells back
+    here. And the fishes\u2019 cold, scaly bodies keep brushing against you.\r\n\tYuck!\n\n\n\tHold
+    your nose and press 1"
+  nextStates:
+  - {fileID: 11400000, guid: 129177c0eb1c7f841a3cb7f9a065ac2a, type: 2}

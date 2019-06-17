@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 135
+  m_EditorClassIdentifier: 
+  storyText: "\tMice! The boxes are full of mice. White mice to be used at the lab
+    for research.\r\n\tLooking at the mice gives you an idea.\r\n\tAs fast as you
+    can, you start opening the boxes and releasing the mice. Before you know it, there
+    are mice all over the truck.\r\n\t\u201CHelp! Help!\u201D you scream, banging
+    on the back of the truck.\r\n\tWill anyone hear you?\n\n\nPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: bedb5a5bae6439744920e690659192f7, type: 2}

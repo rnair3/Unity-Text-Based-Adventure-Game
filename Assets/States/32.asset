@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 32
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019re sure that your brother is somewhere in the cave. \u201CDenny!\u201D
+    you yell. \u201CDenny!\u201D\r\n\tYou\u2019re getting used to the smell and the
+    darkness. You squint at the chronometer and see that there\u2019s only about fifteen
+    minutes until you and Denny are lost in time forever.\r\n\t\u201CDenny!\u201D
+    you call again.\r\n\tAt last you hear his faint answer. \u201CHelp me!\u201D he
+    calls. The sound is coming from underneath the straw.\r\n\tYou dig through the
+    straw. Finally you find him, on the bottom, with ropes tied around his hands and
+    feet.\r\n\t\u201CWho tied you up?\u201D you ask as you quickly untie him.\r\n\t\u201CThe
+    lion,\u201D he says.\r\n\tA lion tied him up?\r\n\t\u201CCome on,\u201D you say
+    urgently. \u201CGrab my hand. We\u2019ve got to get back to the present!\u201D\r\n\t\u201CYou\u2019re
+    not the boss of me!\u201D Denny says. But you can see he\u2019s scared as he takes
+    your hand.\r\n\tYou get ready to press the top and bottom buttons of the chronometer.
+    But a terrifying roar fills the cave.\n\n\tFind out what it is by pressing 1."
+  nextStates:
+  - {fileID: 11400000, guid: 0cfb5b8751554e44297e2401e7d0851a, type: 2}

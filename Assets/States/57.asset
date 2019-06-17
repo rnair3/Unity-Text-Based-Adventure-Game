@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 57
+  m_EditorClassIdentifier: 
+  storyText: "\tYou step through the door labeled TO THE LAIR. You find yourself in
+    a very narrow passageway.\r\n\tSmoking candles along the walls give off a little
+    light as the path twists and turns. You\u2019re beginning to wonder if you made
+    the wrong choice when you see something on the path:\r\n\tA squashed Gummi Bear.\r\n\tYour
+    heart stops. There were no Gummi Bears in medieval times. Denny\u2019s been here!\r\n\tYou
+    hurry along the corridor and see more squashed Gummi Bears. Your brother has definitely
+    come this way. But where is he now?\r\n\tYou come to a narrow staircase. You follow
+    the cold stone steps downward. At the bottom is a big wooden door. Over it, a
+    sign says LAIR OF THE WIZARD.\r\n\tNext to that door is a tiny door about a foot
+    high. The sign over the small door says LAIR OF THE LIZARD.\r\n\tYou think again
+    about the knight\u2019s last words to you: \u201CBeware of the Lair.\u201D But
+    which lair did he mean?\n\n\tPress 1 to approach the Lair of the Wizard.\r\n\tPress
+    2 to check out the Lair of the Lizard."
+  nextStates:
+  - {fileID: 11400000, guid: 258ce68f0d0bf104a9cc98c61fc257b6, type: 2}
+  - {fileID: 11400000, guid: 8dcd90324dcdc5c42a57806d41e6891c, type: 2}

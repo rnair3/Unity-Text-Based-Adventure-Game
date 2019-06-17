@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 131
+  m_EditorClassIdentifier: 
+  storyText: "\tYou follow the robot to meet the captain.\r\n\tThe captain of the
+    ship is a woman. A human woman \u2014 but she looks really mean.\r\n\t\u201CYou
+    were caught spying in our secret antigravity device,\u201D she says sternly. \u201CThe
+    penalty is immediate execution. Now what do you have to say for yourself?\u201D\r\n\tImmediate
+    execution!\r\n\tSomehow, you have to get her to understand what you were doing
+    there. But what if she doesn\u2019t believe your story? Maybe it would be better
+    to pretend you\u2019re a new member of the space crew and didn\u2019t know better.\r\n\tDecide
+    well. Your life depends on it!\n\n\n\tPress 1 to lie.\r\n\tPress 1 to tell the
+    truth."
+  nextStates:
+  - {fileID: 11400000, guid: fb6829d1a5e28ae498bdca4da3d4792e, type: 2}
+  - {fileID: 11400000, guid: ab46e2b2521234e45a874baab12fadc2, type: 2}

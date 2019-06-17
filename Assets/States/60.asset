@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 60
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CPull the bird out three times!\u201D you cry.\r\n\t\u201CWRONG!\u201D
+    the wizard thunders. Instantly, there\u2019s a brilliant flash of light. You find
+    yourself in a misty corridor. With a sinking feeling, you realize you are in the
+    Corridors of Time.\r\n\tIn the distance you see an old man trudging along, with
+    the help of a cane. You hurry to catch up. The man has a white beard and thinning
+    gray hair. There\u2019s something familiar about him\u2026.\r\n\t\u201CHi,\u201D
+    the old man says in a creaky voice.\r\n\tIt\u2019s Denny! Somehow the Corridors
+    of Time have turned him into an old man!\r\n\tYou grab his arm. \u201CDenny,\u201D
+    you say, \u201Ccome on. Maybe we can find a way out of here.\u201D\r\n\tHe shakes
+    off your hand. \u201CYou\u2019re not the boss of me,\u201D he grumbles. Then he
+    bops you on the head with his cane. \u201CI\u2019m older now \u2014 and I\u2019m
+    the boss of you!\u201D\r\n\tToo bad. You\u2019re stuck in time with your older
+    younger brother!\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

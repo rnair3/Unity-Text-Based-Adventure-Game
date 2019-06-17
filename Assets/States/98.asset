@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 98
+  m_EditorClassIdentifier: 
+  storyText: "\tThe space shuttle finally docks at a huge, orbiting space station.
+    The doors glide open. You walk off the shuttle and enter a corridor.\r\n\tInside
+    the space station, robots and humans hurry along the walkway. Denny might be here
+    somewhere \u2014 but where?\r\n\tA pair of robots wearing security badges stare
+    right at you. All the other humans are wearing bright yellow uniforms, you notice.
+    You\u2019d better find one right away, before someone tries to stop you.\r\n\tJust
+    ahead is a door marked SUPPLIES. Inside, a pile of freshly laundered uniforms
+    sits on a shelf.\n\n\n\tPut on the uniform and press 1."
+  nextStates:
+  - {fileID: 11400000, guid: 7890e63fad9b17a45846015c71b59ec1, type: 2}

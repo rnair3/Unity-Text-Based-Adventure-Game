@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 38
+  m_EditorClassIdentifier: 
+  storyText: "\tThe high wooden door to the castle stands open. \u201CHello?\u201D
+    you call. \u201CIs anybody home?\u201D\r\n\tYour own voice echoes back. You step
+    through the door into a dark entrance hall. Hanging from the wall is a tapestry.
+    In the center there\u2019s a picture of a fierce-looking beast.\r\n\tA lion? you
+    wonder. You sure hope you don\u2019t run into him here!\r\n\tYou enter a winding,
+    narrow corridor. Empty suits of armor line the walls. The only light comes from
+    flickering candles.\r\n\tThe corridor turns and twists, but doesn\u2019t seem
+    to lead anywhere. You glance at the chronometer. Only one hour left \u2014 and
+    there\u2019s still no sign of Denny!\r\n\tThen all the candles go out.\r\n\tYou\u2019re
+    in total darkness!\r\n\tFrom somewhere up ahead, you hear an eerie scream. A human
+    scream. Chills creep up your spine. Who was that? Maybe you should get out of
+    here right now.\r\n\tBut what if it was Denny?\n\n\tIf you choose to go on, press
+    1.\r\n\tIf you decide to turn back, press 2."
+  nextStates:
+  - {fileID: 11400000, guid: 88df6db2ec0a72e48b65faf1ca70b6c3, type: 2}
+  - {fileID: 11400000, guid: f85e52fbc8e12874f8b9315f3daccb4f, type: 2}

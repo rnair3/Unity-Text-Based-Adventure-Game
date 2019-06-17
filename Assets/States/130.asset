@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 130
+  m_EditorClassIdentifier: 
+  storyText: "\tNo way. You\u2019re not going to miss seeing a real dinosaur being
+    born. You\u2019ll catch up with Denny in a few minutes.\r\n\tYou keep your eyes
+    on the big speckled egg.\r\n\tThis is too cool, you think. Maybe it\u2019s a brachiosaurus
+    or a triceratops. You\u2019ve always wanted to see one of them.\r\n\tTap. Tap.
+    Tap.\r\n\tThe baby dinosaur struggles to get out.\r\n\tCRACK! The enormous egg
+    splits open.\r\n\tYou lean forward \u2014 you\u2019re dying to see this!\r\n\tThen
+    out it pops. You see a long tail \u2026 a tiny beak \u2026 and soft wet feathers.\r\n\tFEATHERS?\r\n\tYou
+    can\u2019t believe it. This baby\u2019s not a dinosaur. It\u2019s a chicken.\r\n\tSome
+    kind of weird, prehistoric chicken!\r\n\tOkay. Now you\u2019ve learned your lesson.\r\n\tNever
+    count your dinosaurs before they hatch!\n\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 31
+  m_EditorClassIdentifier: 
+  storyText: "\tYou feel a strange tingling sensation as you press the buttons on
+    the chronometer. When it stops you\u2019re still standing next to a newsstand.
+    But a clock in a nearby store shows that it\u2019s fifteen minutes before the
+    accident.\r\n\tYou can still stop it from happening!\r\n\tYour family has already
+    started toward the corner.\r\n\tYou don\u2019t have much time! Should you do something
+    to distract them? Or \u2014 just run across the street and warn them?\r\n\tThink
+    fast! The seconds are ticking by rapidly!\n\n\tDistract your family by pressing
+    1.\r\n\tWarn them on by pressing 2."
+  nextStates:
+  - {fileID: 11400000, guid: b7581749db85f164290dfde50ab3df83, type: 2}
+  - {fileID: 11400000, guid: 5b1b38ac3290f9b4683e72082d3498c4, type: 2}

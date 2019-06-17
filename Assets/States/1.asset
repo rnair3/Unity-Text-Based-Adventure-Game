@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  storyText: "\tWhat a crummy vacation!\r\n\r\tYou, your little brother Denny, and
+    your parents have come to New York City for Christmas vacation. You thought you\u2019d
+    get to do a lot of cool things, like visit the Statue of Liberty, ride to the
+    top of the Empire State Building, and ice-skate at Rockefeller Center.\r\n\r\tInstead,
+    your parents are museum freaks.\r\n\r\t\u201CIt\u2019s entertaining,\u201D your
+    mom says as she drags you into the Museum of Natural History.\r\n\t\u201CIt\u2019s
+    educational,\u201D your dad declares as he shows you a collection of ancient pottery.\r\n\t\u201CIt\u2019s
+    boring!\u201D you say, but no one listens.\r\n\r\tAnd the worst part is that you\u2019re
+    supposed to be in charge of your little red-haired brother Denny. Only Denny doesn\u2019t
+    want anyone to be in charge of him. \u201CYou\u2019re not the boss of me!\u201D
+    he keeps saying. You follow your parents through the Museum of Natural History.
+    At first it is kind of interesting. You really like the dinosaurs.\r\n\t\u201CWait
+    till you see what\u2019s in this room!\u201D your mom cries.\n\n\tPress 1 to go
+    to next room"
+  nextStates:
+  - {fileID: 11400000, guid: 4766da2efae054f40ae585d0e13331c6, type: 2}

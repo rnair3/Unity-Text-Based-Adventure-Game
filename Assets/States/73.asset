@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 73
+  m_EditorClassIdentifier: 
+  storyText: "\tFrantically you start to press the other button, for the past. The
+    robot rolls over to your side. It grabs the chronometer away from you. \u201CNo
+    playing with toys during class!\u201D it shouts. \u201CNow answer the question!\u201D\r\n\tYou
+    have no idea what quallicorks or adjubibbles are. And you don\u2019t think you\u2019ll
+    have time to find out.\r\n\tToo bad \u2014 but it looks as if the answer to your
+    question this time is:\n\n\tTimes Up!!!!!!!!!\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

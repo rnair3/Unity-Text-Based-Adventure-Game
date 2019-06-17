@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 37
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CI\u2019m sorry,\u201D you tell Jarmal. \u201CI hope the humans
+    win over the robots. But I\u2019ve got to go look for my brother.\u201D\r\n\t\u201CThat\u2019s
+    bad news \u2014 for you,\u201D Jarmal says. \u201CBut it\u2019s good news for
+    us. We\u2019ve been looking for someone to use as bait to lure the robots into
+    the underground tunnels.\u201D\r\n\t\u201CWait a minute!\u201D you say. \u201CI\u2019ve
+    changed my mind! I want to join the rebel \u2014\u201D\r\n\t\u201CSorry,\u201D
+    Jarmal replies. \u201CIt\u2019s too late.\u201D He snatches the chronometer and
+    crushes it beneath his boots.\r\n\t\u201CBut I\u2019m a fellow human!\u201D you
+    protest, as Jarmal and two other humans drag you back to the manhole.\r\n\t\u201CIt
+    makes no difference,\u201D Jarmal snarls. \u201CIf there\u2019s one thing five
+    hundred years of robot rule has taught us, it\u2019s not to be sentimental.\u201D\r\n\tThe
+    rebels tie you to the top of the manhole. Then Jarmal and his friends gather below,
+    their guns drawn and ready. Outside on the street you can hear gunfire \u2014
+    and it\u2019s getting closer.\r\n\tWhen the robots arrive, you\u2019ll be caught
+    between the two opposing armies. Too bad. It looks as if you\u2019ve gotten tied
+    up in one adventure too many!\n\n\tPress 1 to continue.."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

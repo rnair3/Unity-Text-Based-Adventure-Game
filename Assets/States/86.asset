@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 86
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019ve got to warn your family. \u201CStop!\u201D you cry as
+    you dash across the street. \u201CGo back to the hotel!\u201D\r\n\tAt first they
+    all ignore you. Then your mom\u2019s eyes grow wide. She looks back and forth
+    between you and the other you.\r\n\t\u201CI don\u2019t have time to explain what\u2019s
+    happening!\u201D you shout at her. \u201CDon\u2019t cross the street! Mom, please!
+    It\u2019s dangerous!\u201D\r\n\tBut now your family is hurrying to get away from
+    you. They\u2019re totally freaked out!\r\n\t\u201CStop!\u201D you cry again.\r\n\t\u201CI
+    don\u2019t know who you are or why you\u2019re pretending to be my child,\u201D
+    your father says angrily. \u201CBut if you don\u2019t leave us alone, I\u2019m
+    calling the police!\u201D\r\n\t\u201CPlease!\u201D you beg. \u201CJust stop for
+    a minute! You have to listen to me! I\u2019m trying to save your \u2014\u201D\r\n\t\u201CI
+    mean it,\u201D your dad says. \u201CGet out of here or you\u2019ll be sorry!\u201D\n\n\n\tPress
+    1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 517b8464ebb228f4fbde07adc7bafb5f, type: 2}

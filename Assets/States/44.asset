@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 44
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CI\u2019ll look for my brother in the past,\u201D you tell Dr.
+    Peebles.\r\n\t\u201CFine,\u201D the scientist replies. He punches another set
+    of numbers into the computer.\r\n\t\u201CNow step right through the Chronoport,\u201D
+    Dr. Peebles instructs you. \u201CAnd good luck.\u201D\r\n\tYou approach the shimmering
+    frame and enter it. You feel a strange tingling sensation. Everything appears
+    hazy, as if you are underwater. A second later you see two paths ahead in the
+    mist.\r\n\tWow!\r\n\tAt the end of the left-hand path you squint to see a tall
+    stone castle in the distance. A knight in shiny armor on a white horse rides toward
+    it.\r\n\tAt the end of the right-hand path there\u2019s a swamp with tall, strange-looking
+    trees towering over it. Moving among the trees is \u2026 can it be? A dinosaur!\r\n\tWhich
+    path did your brother choose? Which one will you take? Quick, decide!\n\n\n\tIf
+    you think Denny ran toward the knight, press 1.\r\n\tIf you think he checked out
+    the dinosaur, press 2."
+  nextStates:
+  - {fileID: 11400000, guid: 67629037bc341c2479c3cccf0271a985, type: 2}
+  - {fileID: 11400000, guid: 64e7d0e862ebed746a1462ce3f3d33b2, type: 2}

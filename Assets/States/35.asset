@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 35
+  m_EditorClassIdentifier: 
+  storyText: "\tYou whirl around.\r\n\tWhew! At least it\u2019s a human, and not a
+    robot.\r\n\t\u201CWelcome to The City, stranger,\u201D the human says. \u201CWho
+    are you?\u201D\r\n\t\u201CI\u2019m a traveler from the past,\u201D you explain.
+    \u201CI\u2019m looking for my brother.\u201D\r\n\t\u201CYou won\u2019t find him
+    here,\u201D the stranger replies. \u201CIt\u2019s not safe to be on the streets.
+    Come with me.\u201D\r\n\t\u201CB-but who are you?\u201D you stammer.\r\n\t\u201CLater!\u201D
+    he whispers. \u201CWe\u2019ve got to hide!\u201D He leads you to the corner, then
+    down a manhole into an underground tunnel. It\u2019s dark, and you can hear water
+    dripping all around you.\r\n\tThe tunnel leads to a large room lit with candles
+    and lanterns. Several other humans are inside.\r\n\t\u201CWelcome to the rebel
+    stronghold,\u201D says the man. \u201CI\u2019m Jarmal, leader of the rebellion.\u201D\r\n\tRebellion?
+    What\u2019s this guy talking about?\n\n\tPress 1 to find out."
+  nextStates:
+  - {fileID: 11400000, guid: c101b82619f16374fb788ac227d23b2b, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 28
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CThe magical objects are three white stones,\u201D you tell the
+    robot.\r\n\tThe robot\u2019s face is blank. \u201CCorrect,\u201D it says. \u201CBut
+    we will see how you do on the next round.\u201D\r\n\tYou know you\u2019re never
+    going to make it through the next round. You quickly grasp the chronometer and
+    press the button on the right to go farther into the future.\r\n\tImmediately
+    you feel a tingling sensation. When it stops, you\u2019re still seated \u2014
+    but not on the hard wooden chair in the classroom. Instead, you\u2019re strapped
+    into a comfortable, soft seat. Whooshing sounds surround you.\r\n\tIs this an
+    airplane?\r\n\tYou glance out a window. Outside is black, empty space, dotted
+    with brilliant white stars. Up ahead is a big, doughnut-shaped structure with
+    spaceships docked by its doors.\r\n\tYou\u2019re not on an airplane \u2014 you\u2019re
+    on a space shuttle! And it\u2019s traveling toward a space station.\r\n\t\u201CThirty
+    seconds to docking!\u201D an intercom squawks.\n\n\tTo find out what happens next,
+    press 1."
+  nextStates:
+  - {fileID: 11400000, guid: f7ccf425545eb364bada13f664c42403, type: 2}

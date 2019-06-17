@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 133
+  m_EditorClassIdentifier: 
+  storyText: "\tThe teacher turns to you. \u201CStand up,\u201D the robot orders.\r\n\tNervously,
+    you stand. You hold your breath as the teacher starts to speak. This is the moment.
+    Can you answer the question, or will you be frammilized?\r\n\t\u201CThe ancient
+    British wizard Morgred used a magic spell to travel in time. The spell made use
+    of three magical objects. What are they?\u201D\r\n\tMorgred? He was the wizard
+    in the GOOSEBUMPS book A Night in Terror Tower. You remember him. But can you
+    remember the answer to the question? If you can\u2019t, you\u2019ll have to guess!
+    Think carefully, then answer.\n\n\n\n\tPress 1 if you think the three objects
+    a pin, a pipe, and a potato? If so.\r\n\tOr press 2 if you think the magical objects
+    three white stones? If that is your answer."
+  nextStates:
+  - {fileID: 11400000, guid: 5a6b6f14148bf54488c4a78504a30088, type: 2}
+  - {fileID: 11400000, guid: 513eb2b1f58725d40b8a96dccb25ca84, type: 2}

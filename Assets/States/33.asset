@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 33
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CCome with me.\u201D The wizard leads you to a large room filled
+    with dusty bookcases and magical equipment. He seats himself at a table and stares
+    into a crystal ball.\r\n\t\u201CI\u2019m thinking of a time-travel device,\u201D
+    says the wizard. \u201CIt\u2019s a black cuckoo clock. A door in the center of
+    the clock contains a mechanical bird.\u201D\r\n\tThe wizard\u2019s green eyes
+    seem to give off sparks.\r\n\t\u201CHere is the question: How do you make time
+    run backward? Do you pull the bird out of the door and put it back three times?
+    Or do you twist its head around? Think carefully before you answer,\u201D he adds.
+    \u201CIf you give a wrong answer you will be sent to the Corridors of Time \u2014
+    forever.\u201D\r\n\tIf you\u2019ve read the GOOSEBUMPS book The Cuckoo Clock of
+    Doom, you know the correct answer. If you haven\u2019t read that book, you\u2019ll
+    have to guess how to make time run backward.\n\n\tDo you pull the bird out and
+    put it back three times? If so, press 1.\r\n\tOr do you twist its head around?
+    Press 2"
+  nextStates:
+  - {fileID: 11400000, guid: cf7ee9e5d30efa5449651ff00f6f6e17, type: 2}
+  - {fileID: 11400000, guid: 47cc8cde55f5538449a55d74aba1551c, type: 2}

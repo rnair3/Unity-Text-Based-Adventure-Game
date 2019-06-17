@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 30
+  m_EditorClassIdentifier: 
+  storyText: "\tThe knight takes the club and holds it awkwardly.\r\n\tThis should
+    be easy, you think as you pick an apple. You throw it to him \u2014 a fast pitch.
+    To your surprise, he hits it \u2014 but the apple only flies a few feet.\r\n\t\u201CYou\u2019ll
+    never be able to beat that,\u201D the knight says.\r\n\t\u201CWe\u2019ll see,\u201D
+    you reply. He\u2019s never seen you play ball.\r\n\tYou grip the club tightly
+    as the knight picks an apple. He winds up, then tosses it toward you.\r\n\tYou
+    keep your eye fixed on the shiny red ball as it soars through the air. You shouldn\u2019t
+    have any problem hitting this baby.\r\n\tYou reach back with your bat and start
+    to swing. Then the bat connects \u2014 with empty air! You missed!\r\n\t\u201CWait!\u201D
+    you cry. \u201CLet me try again.\u201D\r\n\t\u201CSorry,\u201D the knight says.
+    \u201CYou can\u2019t change the rules.\u201D\r\n\t\u201CBut \u2014\u201D\r\n\t\u201CThe
+    crocodiles are hungry.\u201D The knight picks you up in both his arms. \u201CIt\u2019s
+    past their lunchtime!\u201D\r\n\tYou start to reach for the chronometer. But it\u2019s
+    too late. You\u2019re falling \u2014 falling into the moat. Below you are a dozen
+    snapping jaws.\r\n\tToo bad, batting champ! You\u2019ve struck out big time!\n\n\tPress
+    1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

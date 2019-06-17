@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 126
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019ve got to find the chronometer. You stick your arm deep into
+    the quicksand. You feel around with your fingers \u2026 nothing.\r\n\tSuddenly
+    the Tyrannosaurus rex lets out a roar.\r\n\tYou plunge both hands into the quicksand.
+    Beside you, Denny drops to his hands and knees to search, too.\r\n\tYou sift frantically
+    through the mud. The dinosaur comes closer and closer. He reaches out one claw.
+    Then he lets out a tremendous sound. It\u2019s a burp from his earlier feast \u2014
+    a gigantic burp as loud as an explosion!\r\n\tThe force of the burp knocks both
+    you and Denny over. The two of you pitch forward \u2026 right into the quicksand!\r\n\tOh,
+    no! You\u2019re both being pulled down, down into the quivering muck, to meet
+    \u2026\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

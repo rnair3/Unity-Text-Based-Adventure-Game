@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 107
+  m_EditorClassIdentifier: 
+  storyText: "\tYes! The door of the truck opens. There\u2019s Abe, looking absolutely
+    shocked as mice scamper out of the truck and all over the loading dock.\r\n\t\u201CHey
+    you,\u201D you hear Abe call to the driver of the green truck. \u201CGet out of
+    that truck and help us clear up this mess.\u201D\r\n\tCongratulations, time traveler.
+    The truck drivers are so busy chasing white mice that the green truck doesn\u2019t
+    get to the intersection until way after your family is out of there.\r\n\tYou
+    did it! You\u2019re a hero. You saved your family. And you saved the lives of
+    two thousand white mice.\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

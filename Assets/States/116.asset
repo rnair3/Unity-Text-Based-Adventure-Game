@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 116
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CI\u2019m ready to begin the duel,\u201D the knight tells you.
+    He plucks an apple from the tree. Then he winds up and throws the apple toward
+    you. Holding the club like a baseball bat, you smack the apple. It soars down
+    the path, past the knight.\r\n\t\u201CI can hit it much farther,\u201D the knight
+    boasts. He takes his place at the end of the drawbridge.\r\n\tNow you pick an
+    apple from the tree. You stand on the pitcher\u2019s mound and eye the knight.
+    Then you wind up. You pitch.\r\n\tThe knight swings with all his might.\r\n\tAnd
+    hits a blooper a few feet in front of you.\r\n\tAll right!\r\n\t\u201CI won,\u201D
+    you call. \u201CNow can I go into the castle? I need to look for my brother.\u201D\r\n\tThe
+    knight nods. \u201CVery well, stranger,\u201D he says sadly. \u201CYou may enter
+    the castle. But according to the rules, I must jump into the moat.\u201D\n\n\n\tPress
+    1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: 5ff01ccfa16af8f4682b04e4a8a4a2ea, type: 2}

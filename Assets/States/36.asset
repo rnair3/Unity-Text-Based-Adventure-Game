@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 36
+  m_EditorClassIdentifier: 
+  storyText: "\tThe girl is gone!\r\n\t\u201CJackson,\u201D the teacher goes on, as
+    if nothing has happened. \u201CWhat is 43,000,000 divided by 7.645328?\u201D\r\n\tA
+    tall, pale boy stands up. He doesn\u2019t answer for a moment, then shakes his
+    head. \u201CI don\u2019t know,\u201D he says.\r\n\t\u201CGo into the frammilizer!\u201D
+    the robot commands.\r\n\tSlowly, Jackson walks to the front of the room. He steps
+    into the box. A moment later he, too, is gone. Frammilized.\r\n\tYou watch in
+    horror as your classmates disappear, one by one. In a moment it will be your turn.
+    You\u2019ve got to do something and do it fast!\r\n\tYou could use the chronometer
+    to leave the future, but you haven\u2019t found Denny!\r\n\tOn the other hand,
+    you\u2019ve always done well in school \u2014 maybe you\u2019ll be able to answer
+    the teacher\u2019s question.\n\n\tAnswer the teacher\u2019s question by pressing
+    1.\r\n\tUse the chronometer and press 2."
+  nextStates:
+  - {fileID: 11400000, guid: 94253c9ce8220ed40a2caaf01a28eca1, type: 2}
+  - {fileID: 11400000, guid: ba40a01c0da625c479959cd8f8f9fc0e, type: 2}

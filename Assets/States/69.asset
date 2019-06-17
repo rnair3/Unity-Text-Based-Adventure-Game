@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 69
+  m_EditorClassIdentifier: 
+  storyText: "\tYou lean against the wall of the corridor, trying to calm yourself.
+    The only person who can help you find Denny is Dr. Peebles. You pull the chronometer
+    from under your uniform and press the top and bottom buttons to return to his
+    laboratory. You\u2019ve got to escape before anyone \u2014 or anything \u2014
+    comes after you again.\r\n\tBut nothing happens.\r\n\tYou press the buttons again,
+    and nothing happens.\r\n\tOh, no.\r\n\tWhat will you do now? You glance up and
+    notice the sign pointing to TELETIME. Maybe it has something to do with time travel.
+    Maybe there\u2019s another way to get back to the present.\n\n\tPress 1 to enter
+    Teletime"
+  nextStates:
+  - {fileID: 11400000, guid: b050f66bb98ae3b44aee4c04d5a9ef14, type: 2}

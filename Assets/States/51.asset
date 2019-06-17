@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 51
+  m_EditorClassIdentifier: 
+  storyText: "\tYou decide to try to get out of this creepy castle. Using the wall
+    to guide you through the darkness, you start back. You\u2019ve only gone a few
+    steps when you feel a doorknob with your fingers. You turn it and step into a
+    smoky room filled with red light.\r\n\t\u201CWho\u2019s there?\u201D calls a frightened-sounding
+    woman. Before you can answer, she cries out, \u201CPlease help me!\u201D\r\n\tYou
+    make your way through the smoke toward the sound of her voice. At the back of
+    the room, chained to the stone wall, is a beautiful blond woman. She\u2019s dressed
+    in a flowing green gown.\r\n\t\u201CHelp me!\u201D she screams. \u201CFind the
+    key and unlock the chains before he comes back!\u201D\r\n\t\u201CBefore who comes
+    back?\u201D you ask.\r\n\t\u201CThe dragon!\u201D she says. \u201CHe went into
+    his den to take a nap. You\u2019ve got to save me!\u201D\r\n\tNow you see an opening
+    in the wall. Smoke is pouring out of it with a hissing sound. This must be the
+    dragon\u2019s den. You look at the chain holding the woman to the wall. The lock
+    is a very strange shape \u2014nearly round.\r\n\t\u201CHurry!\u201D she shrieks.
+    \u201CI hear the dragon returning!\u201D\n\n\n\tPress 1 if you dare"
+  nextStates:
+  - {fileID: 11400000, guid: 4035c20705ecf854c828fc9e50626293, type: 2}

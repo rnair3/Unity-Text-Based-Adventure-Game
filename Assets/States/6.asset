@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CUse the key and open the lock!\u201D the woman begs.\r\n\tYou
+    hear the dragon\u2019s heavy footsteps approaching. \u201CWhat key?\u201D you
+    ask.\r\n\t\u201CThe key around your neck!\u201D\r\n\tYou glance down at the chronometer.
+    It seems to be the same shape as the keyhole. \u201CBut this isn\u2019t a key,\u201D
+    you protest. \u201CIt\u2019s a chronometer!\u201D\r\n\t\u201CI don\u2019t care
+    what it is!\u201D the woman cries. \u201CUse it!\u201D\r\n\tAt that moment flames
+    shoot out of the opening in the wall. The dragon\u2019s huge, scaly face appears.
+    Its evil yellow eyes narrow when it sees you.\r\n\tQuick! Make a decision! Should
+    you try to use the chronometer as a key to rescue the woman? Or should you just
+    get out of there as fast as you can?\r\n\tHurry! The dragon\u2019s about to breathe
+    fire again!\n\n\tPress 1 to use the chronometer.\n\tPress 2 to run out of the
+    room"
+  nextStates:
+  - {fileID: 11400000, guid: 556568d38156f284ea5ee0c39ce521cb, type: 2}
+  - {fileID: 11400000, guid: b21d305168bacd44ea48823251f655b5, type: 2}

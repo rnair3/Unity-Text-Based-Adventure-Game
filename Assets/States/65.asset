@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 65
+  m_EditorClassIdentifier: 
+  storyText: "\tThe huge tyrannosaur towers over the other dinosaurs. It\u2019s bigger
+    than you ever imagined. Its teeth are as long and sharp as carving knives.\r\n\tThe
+    enormous creature lets out a roar as it crosses the grassy plain. You freeze.
+    Your heart pounds in terror.\r\n\tThe other dinosaurs all start to run away. But
+    one, who was grazing on ferns, is slower than the others. The tyrannosaur easily
+    catches up to it, and tears off the small dinosaur\u2019s head in one bite!\r\n\tThen
+    the tyrannosaur swings its head and stares straight at you! You take off as fast
+    as you can. The tyrannosaur follows. Closer and closer.\r\n\tAhead there\u2019s
+    a swampy patch of land. You race toward it. Something small is sitting in the
+    middle of the swamp.\r\n\tIt\u2019s Denny!\r\n\tBut what\u2019s he doing? Why
+    isn\u2019t he moving?\r\n\tYou glance back over your shoulder. The dinosaur is
+    still right behind you.\r\n\t\u201CDenny!\u201D you call out. \u201CRun!\u201D\r\n\t\u201CI
+    can\u2019t,\u201D he yells back. \u201CI\u2019m stuck in quicksand!\u201D\n\n\n\tPress
+    1 to help your brother."
+  nextStates:
+  - {fileID: 11400000, guid: 4faab26b2be56b441992c974ed8bdb30, type: 2}

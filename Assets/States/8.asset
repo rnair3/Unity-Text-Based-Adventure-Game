@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier: 
+  storyText: "\tAs the dragon moves nearer, you can feel the heat from its fiery breath.\r\n\tWhat
+    are you going to do?\r\n\tIt breathes fire again. Flames lick your feet.\r\n\t\u201CDragon
+    breath!\u201D you hiss suddenly.\r\n\tThe dragon looks at you, startled.\r\n\t\u201CDragon
+    breath!\u201D you say again.\r\n\tThis time it takes a few steps backward.\r\n\t\u201CHaven\u2019t
+    you ever heard of mouthwash?\u201D you say.\r\n\tBy now the dragon is hanging
+    its head in shame.\r\n\tYou\u2019re not sure how much longer you can keep this
+    up. But for now you\u2019ve managed to stop yourself from meeting a fiery\n\t\n\tPress
+    1 to continue...."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

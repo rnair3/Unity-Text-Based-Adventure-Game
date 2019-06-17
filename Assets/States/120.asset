@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 120
+  m_EditorClassIdentifier: 
+  storyText: "\tYou decide to try the truth.\r\n\t\u201CI\u2019m not a spy,\u201D
+    you repeat. \u201CBut I\u2019m not a crew member, either. I\u2019m actually a
+    time traveler.\u201D\r\n\t\u201CLikely story!\u201D the captain snarls. \u201CIf
+    you\u2019re a time traveler, prove it!\u201D\r\n\t\u201CThe device your guard
+    took from me is a chronometer,\u201D you explain. \u201CThat\u2019s how I move
+    from one time to another.\u201D\r\n\tThe guard hands the chronometer to the captain.
+    She glances at it, then hands it back to you. You quickly slip it under your uniform
+    in case she changes her mind.\r\n\t\u201CIf you are really from the past,\u201D
+    she says to you, \u201Cwhat color were the eyes of an allosaurus?\u201D\r\n\t\u201CI\u2019m
+    not from that far back,\u201D you protest.\r\n\tShe sighs. \u201COkay, while I
+    decide what to do with you, wait outside.\u201D\r\n\tThe guards each take one
+    of your arms and roughly shove you out into the corridor.\n\n\nPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 29bccdb3df5112644815d8fc9e7fbe54, type: 2}

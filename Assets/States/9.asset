@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 9
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CI choose school,\u201D you tell the judge.\r\n\tThe robot policeman
+    drags you off to another room in the same building. You are surprised to see that
+    it\u2019s a regular classroom with wooden desks, a blackboard, and a computer
+    center. There is also a metal box the size of a closet standing in the front of
+    the room.\r\n\tThe desks are all filled with human students about your age.\r\n\t\u201CWe
+    will continue the quiz now,\u201D the teacher says in a hollow voice. \u201CAnita,
+    what is the capital of Ulan Bator?\u201D\r\n\tA girl stands nervously. \u201CI
+    \u2014 I don\u2019t know,\u201D she stammers.\r\n\t\u201CThen you must enter the
+    frammilizer,\u201D the teacher says.\r\n\tThe girl bites her fingernails as she
+    goes to the front of the room. She climbs into the metal box. The teacher slams
+    the door shut and presses a button. The box hums, then glows bright green. When
+    the door springs open, you gasp out loud.\n\n\tPress 1 to continue...."
+  nextStates:
+  - {fileID: 11400000, guid: dc54a4981a780f44b8dc88a182d0ff5c, type: 2}

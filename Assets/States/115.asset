@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 115
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CHuman spies!\u201D the robot with the laser gun declares. \u201CYou
+    are under arrest!\u201D\r\n\tYou untwist yourself and float out of the chamber.
+    \u201CWe weren\u2019t spying!\u201D you protest. \u201CWe were only \u2014\u201D\r\n\t\u201CSilence!\u201D
+    the robot snaps.\r\n\tIn a panic, you pull out the chronometer and take a glance.
+    You and Denny have to get home.\r\n\t\u201CPlease,\u201D you beg the robot. \u201CI
+    have to get my brother \u2014\u201D\r\n\t\u201CExplain it to the captain!\u201D
+    the robot says. It snatches away the chronometer.\r\n\t\u201CNo!\u201D you scream.
+    \u201CGive that back!\u201D You grab for the chronometer, but the robot holds
+    it beyond your reach. \u201CCome along now!\u201D it snarls. It clamps its metal
+    claws around your wrist. \u201CYou, too!\u201D it adds, reaching for Denny.\r\n\t\u201CYou
+    can\u2019t make me!\u201D Denny kicks the robot hard on its metal shin and takes
+    off running.\r\n\tThe robot stops for a moment. You can hear something whirring
+    inside its head. \u201CThe captain will explain what to do,\u201D it mutters.
+    \u201CNow come with me.\u201D\n\n\n\tPress 1 to go on."
+  nextStates:
+  - {fileID: 11400000, guid: a5c0d5cab64d273489a5a9eb5135744c, type: 2}

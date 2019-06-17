@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 75
+  m_EditorClassIdentifier: 
+  storyText: "\tAn instant later, you find yourself back in the laboratory at the
+    Museum of Natural History.\r\n\t\u201CWelcome back.\u201D Dr. Peebles looks relieved
+    to see both you and Denny. \u201CHow was your trip?\u201D\r\n\t\u201CExciting,\u201D
+    you say.\r\n\t\u201CBoring,\u201D Denny whines. He punches you. \u201CI\u2019m
+    hungry!\u201D\r\n\tYou gaze at your brother with exasperation. You know that if
+    it weren\u2019t for you, he would have disappeared forever. You think of everything
+    you had to go through to save him. And for just a moment, you wonder if it was
+    such a good idea.\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 59
+  m_EditorClassIdentifier: 
+  storyText: "\tIn just a moment you\u2019ll be safe in another part of the future.\r\n\t\u201CStand
+    and answer!\u201D the robot demands, pointing at you.\r\n\tYou stand. You\u2019re
+    holding the chronometer with your finger on the right-hand button.\r\n\t\u201CWhat,\u201D
+    the robot asks, \u201Cis the quallicork of \u2014\u201D\r\n\tYou don\u2019t wait
+    for the rest of the question. You press the button. You feel a tingling sensation,
+    and the next instant \u2026\r\n\tYou are still standing in the classroom and the
+    robot is still speaking: \u201C\u2014 on the right-hand adjubibble in Jupiter?\u201D\r\n\tYou
+    press the button again, but you\u2019re still in the same place. Is the chronometer
+    broken?\r\n\tYou glance at the dial while you press again. Now you see with horror
+    that it is taking you into the future \u2014 but only five seconds at a time!\n\n\tPress
+    1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 5864135725adb1d449c85712e2586efb, type: 2}

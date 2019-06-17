@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 80
+  m_EditorClassIdentifier: 
+  storyText: "\tYou tear down the corridor to the Hydroponics area.\r\n\tWhat a jungle!
+    Thick, green leaves and winding vines creep all around the room. Strange-looking
+    plants grow everywhere. You notice they\u2019re all potted in a pink solution
+    that is bubbling furiously.\r\n\tYou watch the doorway as you look around. The
+    robots may catch up to you at any minute.\r\n\t\u201CDenny!\u201D you call. \u201CAre
+    you in here?\u201D\r\n\tYou wander past odd-shaped leaves, strange-smelling flowers,
+    and heavy, colorful fruits. You\u2019ve never seen anything like them. You wonder
+    if something in outer space caused ordinary earth plants to mutate into strange
+    new forms.\r\n\tYou come to a large sign that reads DANGER.\r\n\tHuh? What could
+    be dangerous in a room of plants?\r\n\tThen you see it: a vine with a stem as
+    thick as an elephant\u2019s leg. Its flower is huge, with sharplooking petals.\r\n\tYou
+    step forward for a closer look. Suddenly the flower lunges at you, its petals
+    snapping shut an inch from your nose!\n\n\n\tBack away and press 1."
+  nextStates:
+  - {fileID: 11400000, guid: e50e2d38c6b3abe4d828110f207d2d35, type: 2}

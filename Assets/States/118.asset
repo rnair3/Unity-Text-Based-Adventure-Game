@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 118
+  m_EditorClassIdentifier: 
+  storyText: "\tYou set out along the walkway, searching for the power source. You
+    come to a large platform guarded by a robot.\r\n\t\u201CHalt, human!\u201D it
+    demands. \u201CWhat is your business here?\u201D\r\n\t\u201CI\u2019m here to fix
+    the romiframpton,\u201D you tell the robot.\r\n\t\u201CWhat\u2019s wrong with
+    it?\u201D the robot demands.\r\n\tYou think quickly, then say the first thing
+    that comes to your mind. \u201CThe snazzilizer is pulsing out of phase.\u201D\r\n\t\u201CNo
+    wonder it\u2019s been so scaloopy lately,\u201D the robot replies. \u201CYou\u2019re
+    the first entity \u2014 robot or human \u2014 to diagnose the problem correctly.\u201D\r\n\tThe
+    robot actually believed you! You\u2019re in shock, and it takes you a minute to
+    speak.\r\n\t\u201C\u2026 I\u2019d better get to work,\u201D you say finally.\r\n\t\u201CNever
+    mind the romiframpton,\u201D the robot says. \u201CNow that we know what\u2019s
+    wrong, we can fix it ourselves. But with your mechanical genius we can use you
+    as an instructor in the electronics college. Come with me.\u201D\r\n\t\u201CNo,\u201D
+    you protest. \u201CI need to \u2014\u201D\r\n\t\u201CI said, come with me!\u201D
+    the robot repeats in a nasty metallic twang.\n\n\n\tPress 1 to go to college"
+  nextStates:
+  - {fileID: 11400000, guid: 14bb52c47610ddb498726ad5c52646f6, type: 2}

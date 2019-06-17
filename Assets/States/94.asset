@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 94
+  m_EditorClassIdentifier: 
+  storyText: "\tQuickly, you pull the chronometer from around your neck and put it
+    in the keyhole.\r\n\t\u201CRRAAAOOORRRGGGHHH!\u201D the dragon bellows, filling
+    the small room with flames and more smoke.\r\n\tThe woman shrieks in terror. You
+    turn the chronometer in the lock. To your surprise, the lock pops open. The woman
+    quickly pulls off her chains, then grabs your hand. \u201CThis way!\u201D she
+    cries. \u201CThe dragon can\u2019t follow!\u201D\r\n\tShe leads you through a
+    small door and slams it. Behind the door, the dragon roars angrily.\r\n\t\u201CThank
+    you for saving me,\u201D the woman says. \u201CIs there any way I can repay you?\u201D\r\n\tYou
+    explain that you\u2019re looking for your brother. \u201CHe has red hair,\u201D
+    you say, describing him.\r\n\tThe woman nods. \u201CI\u2019ve seen a young boy
+    who looks just like that in the Throne Room.\u201D She points to a door labeled
+    TO KING RUTHBERT\u2019S THRONE ROOM.\r\n\tYou glance at the chronometer. Time
+    is running out! You\u2019ve got only half an hour to find Denny and return to
+    the present.\r\n\t\u201CGood luck.\u201D The woman smiles. \u201CAnd thanks again.\u201D\n\n\n\tPress
+    1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 930786d3901a9d74cb2f5f386069496c, type: 2}

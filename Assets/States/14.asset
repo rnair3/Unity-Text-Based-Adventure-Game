@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 14
+  m_EditorClassIdentifier: 
+  storyText: "\tYou smile. You knew you could count on your brother\u2019s greed.\r\n\tKing
+    Ruthbert orders the knight at your side to free your hands. You pull the chronometer
+    off your neck. Glancing at it, you see that you and Denny only have five more
+    minutes before disappearing in time.\r\n\t\u201CDenny,\u201D you tell him, \u201Cthis
+    is your last chance to return to the present. Please \u2014\u201D\r\n\t\u201CNo!\u201D
+    Denny yells. \u201CForget it! I\u2019m not going!\u201D\r\n\t\u201CGive the boy
+    the trinket!\u201D the king bellows.\r\n\tThe knight beside you grabs for the
+    chronometer. You whip your hands out of the way. The knight loses his balance
+    and bumps you. You feel yourself falling off the platform \u2014 straight into
+    the pot of boiling oil!\n\n\tGo on press 1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: f107c2d828a7d0840828352c2c0d0be0, type: 2}

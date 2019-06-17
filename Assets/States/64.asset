@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 64
+  m_EditorClassIdentifier: 
+  storyText: "\tA hideous lion stands at the entrance to the cave. It\u2019s enormous
+    \u2014 bigger than any lion you\u2019ve seen at the zoo. Its head is covered with
+    yellow-brown fur and a thick mane. Its eyes glitter as it looks you up and down.\r\n\tThen
+    you recognize the beast.\r\n\tIt\u2019s the lion from the tapestry in the entranceway
+    to the castle!\r\n\tIn terror, Denny ducks behind you.\r\n\t\u201CYou\u2019ll
+    do just as well!\u201D the creature snarls as it rushes toward you. It grabs you
+    by the arm, licking its lips hungrily.\r\n\tYou glance at the chronometer in your
+    hand. The lion is touching you, so if you press the chronometer buttons now it
+    will travel to the future with you and Denny. But if you don\u2019t go to the
+    present soon, you and Denny will be lost forever.\r\n\tShould you stay here? Or
+    return to Dr. Peebles\u2019s laboratory with both Denny and the lion?\n\n\n\tPress
+    1 to escape now.\n\tPress 2 to stay and fight the lion."
+  nextStates:
+  - {fileID: 11400000, guid: 166f5a502919e80459e18e1b25d21314, type: 2}
+  - {fileID: 11400000, guid: 0000ca7e0afd958479396158aff6ac99, type: 2}

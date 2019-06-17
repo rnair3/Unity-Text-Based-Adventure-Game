@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 34
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019ve got to stop the truck \u2014 that\u2019s the only way
+    to save your family. Quickly you push the button on the chronometer. But a moment
+    later you\u2019re on the same New York City street.\r\n\tUh-oh. Maybe the chronometer
+    didn\u2019t work!\r\n\tThen you notice a tall billboard with a digital clock and
+    calendar. It\u2019s the same day, all right, but an hour earlier.\r\n\tWhew. For
+    now your family is safe. But you have to track down the truck and make sure nothing
+    happens.\r\n\tYou remember seeing HERRING BROS. DELIVERIES on the truck\u2019s
+    side panel. Quickly you look up the number and address in a phone book. Herring
+    Bros. is only a few blocks away.\n\n\tWhat are you waiting for? You only have
+    an hour. Press 1."
+  nextStates:
+  - {fileID: 11400000, guid: 2bd05b150791b8243bd58872b176dd57, type: 2}

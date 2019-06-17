@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 53
+  m_EditorClassIdentifier: 
+  storyText: "\tYou quickly jump up on the counter of the newsstand, and then climb
+    onto the roof.\r\n\t\u201CHey!\u201D the owner shouts. \u201CGet down from there!\u201D\r\n\tYou
+    ignore him. While he continues to yell, you take some of your money and throw
+    it down on the sidewalk. \u201CFREE MONEY!\u201D you shout.\r\n\tDown below, Denny
+    shouts the same thing. \u201CFREE MONEY!\u201D\r\n\t\u201CLook at that!\u201D
+    someone shouts. \u201CThose kids are throwing away money!\u201D\r\n\tTwo or three
+    passersby pick up coins and bills. A crowd starts to gather and cars and taxis
+    brake to see what\u2019s going on.\r\n\tYou watch as Denny bends down and pockets
+    some of the change.\r\n\t\u201CDenny!\u201D you scream. \u201CPut that \u2014\u201D\r\n\tLoud
+    honking starts up in the distance. The truck is coming! You can see it now \u2014
+    speeding for the intersection where your family is about to cross!\n\n\n\tQuick!
+    Press 1"
+  nextStates:
+  - {fileID: 11400000, guid: da8c6c5237df8444bb29dbefe06d8c9d, type: 2}

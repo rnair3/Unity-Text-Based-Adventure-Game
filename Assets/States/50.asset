@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 50
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CWait!\u201D you cry. \u201CYou don\u2019t need to \u2014\u201D
+    But it\u2019s too late. He\u2019s already jumped into the water. You watch in
+    horror as the crocodiles swim toward him \u2014 jaws open!\r\n\t\u201COne last
+    thing,\u201D the knight calls before the beasts reach him. \u201CBeware of the
+    Lair!\u201D\r\n\t\u201CThe what?\u201D you ask. But the only answer is the snapping
+    of the crocodiles\u2019 jaws.\r\n\tTrying not to watch or listen, you hurry across
+    the drawbridge and into the castle.\n\n\tPress 1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: ce9331b7a84ab5242a2b2f1f8e936183, type: 2}

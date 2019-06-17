@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 27
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CWait!\u201D you shout to the driver. \u201CI\u2019ve changed
+    my mind!\u201D\r\n\tBut it\u2019s too late. The driver can\u2019t hear you. With
+    a lurch, the truck starts off.\r\n\tThe truck bumps along the city streets. Outside,
+    you can hear honking horns and the engines of other trucks and cars. You\u2019re
+    stuck back here with hundreds of dead fish \u2014 how are you going to save your
+    family now?\r\n\tYou stand up and squeeze between the crates of fish. You make
+    your way toward the driver\u2019s cab. You pound on the area behind the driver,
+    trying to get his attention.\r\n\tBut the truck keeps going.\r\n\tAnd starts to
+    pick up speed! It swerves wildly, and outside you can hear honking horns and angry
+    shouting.\r\n\tThe truck\u2019s out of control!\r\n\tAnd you\u2019re stuck inside
+    it!\r\n\tIt\u2019s too late to stop the truck this time. All you can do now is
+    press the button on the chronometer, return to the past, and try something else.\n\n\tPress
+    1 to return to the past."
+  nextStates:
+  - {fileID: 11400000, guid: 404682c6e2c7dc749a670702996dc31f, type: 2}

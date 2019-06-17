@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 99
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019re sure you can trick the robot. After all, you\u2019re human
+    and he\u2019s just a machine.\r\n\t\u201CPlease don\u2019t shoot me,\u201D you
+    cry. \u201CI\u2019m a visitor from the past. I\u2019m only here to find my brother.\u201D\r\n\tThe
+    robot hesitates. It seems to be computing what you just said. Then it pulls back
+    the trigger on its laser.\r\n\t\u201CI could prove it if you had better technology,\u201D
+    you add.\r\n\tThe robot\u2019s electronic eye flashes angrily. \u201COur technology
+    has been perfected,\u201D it states.\r\n\t\u201CToo bad.\u201D You heave a big
+    sigh. \u201CI mean, you probably can\u2019t locate the time I left the present.\u201D\r\n\tThe
+    robot scuttles over. \u201CWhen did you leave?\u201D it demands. \u201CI can find
+    that!\u201D\r\n\tYou tell the robot the exact day and time that you left Dr. Peebles\u2019s
+    laboratory.\r\n\tThe robot adjusts some controls. Then Dr. Peebles\u2019s laboratory
+    appears on the large central monitor.\n\n\n\tPress 1 and watch what happens"
+  nextStates:
+  - {fileID: 11400000, guid: 63da2d5586dedca46abb32b5908a6ddc, type: 2}

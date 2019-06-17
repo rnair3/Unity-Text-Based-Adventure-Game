@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 52
+  m_EditorClassIdentifier: 
+  storyText: "\tThe two knights drag you over to the pot of boiling oil. The king
+    and Denny are right behind them.\r\n\t\u201COn the count of three, carry out the
+    sentence!\u201D the king orders.\r\n\t\u201CDenny, help!\u201D you plead.\r\n\tBut
+    Denny sticks his tongue out at you. Then he gives the king the thumbs-up sign.\r\n\t\u201COne!\u201D
+    the king says. The knights pick you up.\r\n\t\u201CPlease \u2014 just listen to
+    me \u2014\u201D you cry.\r\n\t\u201CTwo!\u201D The knights lift you high in the
+    air above the pot.\r\n\tFrantically, you struggle to free your hands, so you can
+    use the chronometer. But they are tied too tightly.\r\n\t\u201CThree \u2014\u201D
+    the king cries. At that moment, a hair-curling scream splits the air. Dozens of
+    armored knights rush onto the roof. They\u2019re all waving swords and knives
+    and holding out large shields. The roof is swarming with knights ready for battle!\n\n\tPress
+    1 to continue.."
+  nextStates:
+  - {fileID: 11400000, guid: 630613fe386689f4f87b7a9f2dd05898, type: 2}

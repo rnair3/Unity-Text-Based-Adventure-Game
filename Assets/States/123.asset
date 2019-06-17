@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 123
+  m_EditorClassIdentifier: 
+  storyText: "\tYou grab the rake. Then, holding it out in front of you, you inch
+    toward the door on the other side of the room. The vine follows you, its flower
+    head still snapping like mad.\r\n\tYou\u2019re about to reach for the doorknob
+    when something grabs your ankle.\r\n\tThe vine is coiling around your legs!\r\n\tDesperately,
+    you hack at the vine with the rake. But it\u2019s no use. The vine rapidly works
+    its way up your body, wrapping you up as tightly as a mummy!\r\n\tSuddenly, the
+    door opens. Someone walks in, singing the words to your favorite song.\r\n\tIt\u2019s
+    Denny!\r\n\tYou open your mouth to yell to him. But it\u2019s no use. You can\u2019t
+    speak \u2014 you can\u2019t even move.\r\n\tYou hear Denny moving around the room,
+    looking at everything. Then he stops right in front of you.\r\n\tHe looks closely
+    at the vine holding you prisoner. \u201CCool plant,\u201D he says.\r\n\tCool plant?\r\n\tThat\u2019s
+    not a plant \u2014 it\u2019s you!\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

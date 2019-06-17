@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 41
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CIt\u2019s King Henry\u2019s army!\u201D King Ruthbert shouts.\r\n\tThe
+    king\u2019s two knights spring into action. They drop you and jump in front of
+    the king. They desperately try to defend him against the invading army.\r\n\tWhen
+    the knights let you go, you roll out of the way. You\u2019ve got to grab Denny
+    and get out of here. Fast!\r\n\tBut one of King Henry\u2019s knights has already
+    seized your brother. You watch in horror as the knight lifts your brother over
+    his head and walks him over to the end of the castle.\r\n\tOh, no! The knight\u2019s
+    about to toss Denny over the side!\r\n\tYou\u2019ve got to do something, but what?
+    For just a moment you think about doing nothing. After all, Denny was planning
+    to have you boiled in oil. But no \u2014 he\u2019s your brother, after all.\r\n\tYour
+    hands are still tied behind your back. Maybe you can trick the knight into letting
+    Denny go. Or \u2014 maybe you can roll into the knight\u2019s path before he reaches
+    the edge of the roof.\n\n\n\tTrick the knight by pressing 1.\r\n\tRoll into his
+    path and press 2."
+  nextStates:
+  - {fileID: 11400000, guid: 6afe0c5c432f87b428211b726329d748, type: 2}
+  - {fileID: 11400000, guid: 4cf2576bec814584290b7bead7c232b1, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 24
+  m_EditorClassIdentifier: 
+  storyText: "\tDisguised in the uniform, you hurry out of the closet to explore the
+    space station.\r\n\tThis place is too cool. Through the windows you can see thousands
+    of stars. Sophisticated-looking computers with colorful lights are scattered all
+    over this place.\r\n\tThe chronometer\u2019s steady ticking reminds you that time
+    is running out. You\u2019d better find Denny quickly and get back to the present.\r\n\tYou
+    wander through a door and see a sign pointing to something called TELETIME.\r\n\tThen
+    two robots approach. One of them draws a laser.\r\n\tJust ahead is a branch in
+    the corridor. A green sign points to HYDROPONICS and a purple one points to ENGINE
+    ROOM.\r\n\tMake a choice and start running!\n\n\tFollow the green sign to Hydroponics
+    and press 1.\n\tTake the purple sign to the Engine Room  and press 2."
+  nextStates:
+  - {fileID: 11400000, guid: 0952e846b629b8e4286836ae4706a9d4, type: 2}
+  - {fileID: 11400000, guid: 324647d697423a8488c47fa27fe86f5c, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 84
+  m_EditorClassIdentifier: 
+  storyText: "\tAs you reach for a weapon, you notice an apple tree planted alongside
+    the moat. Suddenly you have an idea \u2014 and it\u2019s just what you need to
+    put a chink in this knight\u2019s armor.\r\n\t\u201CI choose the club,\u201D you
+    tell the knight. \u201CBut we\u2019ll duel according to my rules.\u201D\r\n\t\u201CVery
+    well, stranger,\u201D the knight says. He hands you the club.\r\n\t\u201CSee that
+    apple tree?\u201D you say. \u201CPick one of the apples and toss it toward me.
+    I\u2019ll hit the apple with the club. Then I\u2019ll throw an apple for you to
+    hit. Whoever hits the apple farthest will win the duel.\u201D\r\n\t\u201CA strange
+    challenge indeed,\u201D the knight grumbles. \u201CBut I accept.\u201D\r\n\tLast
+    year you were the best batter on your baseball team. Now you\u2019re hoping your
+    batting average will pay off. Can you beat the knight at baseball? To find out,
+    flip two coins.\n\n\r\n\tPress 1 if both coins come up the same, heads or tails.\r\n\tPress
+    2 if one coin comes up heads and the other comes up tails."
+  nextStates:
+  - {fileID: 11400000, guid: 8412cef1efee03840b5839b253e9e8ab, type: 2}
+  - {fileID: 11400000, guid: 3f738810e4c08784e8adaac45a8cf68c, type: 2}

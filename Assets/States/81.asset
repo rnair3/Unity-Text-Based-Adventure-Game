@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 81
+  m_EditorClassIdentifier: 
+  storyText: "\tYou follow the sign to Teletime. It\u2019s a spacious room full of
+    electronic equipment. A large panel in the center of the room contains dozens
+    of TV monitors.\r\n\tOn the monitors you can see several scenes from the past:
+    Alexander the Great\u2019s army, the signing of the Declaration of Independence,
+    the landing on the moon. A robot in a white lab coat watches the monitors and
+    doesn\u2019t notice you.\r\n\tMaybe the robot can help you return to your own
+    time. You\u2019re about to ask for help when an alarm sounds.\r\n\t\u201CATTENTION
+    ALL PERSONNEL!\u201D a loudspeaker squawks. \u201CBE ON THE LOOKOUT FOR AN INTRUDER!\u201D\r\n\tThe
+    robot scientist whirls around and spots you. He pulls out a laser gun. \u201CExplain
+    yourself!\u201D\r\n\tWhat do you do now? Tell the truth and ask the robot for
+    help? Or try to trick it?\n\n\tPress 1 to ask for help.\r\n\tPress 2 to trick
+    the robot."
+  nextStates:
+  - {fileID: 11400000, guid: e87384d3f760a6b4f9e371c64d6a449e, type: 2}
+  - {fileID: 11400000, guid: 1ce19bbd5a9667447984f69f5d2aeaa9, type: 2}

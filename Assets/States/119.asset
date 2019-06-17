@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 119
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CNo way,\u201D you protest. \u201CI\u2019m not going in there.\u201D\r\n\t\u201CIf
+    you want help finding your brother,\u201D Jarmal snaps, \u201Cyou\u2019d better
+    do it.\u201D\r\n\tFinally you agree. What else can you do?\r\n\tJarmal hands you
+    the red box with the explosives. \u201CRemember, you have to place it within three
+    feet of the power source. And one more thing \u2026 you have only one minute to
+    get away before it blows.\u201D\r\n\t\u201CHow am I supposed to get into the building?\u201D
+    you ask.\r\n\t\u201CThere are two ways to get in,\u201D Jarmal tells you. \u201COne
+    is to find some way to get past the robot guards at the door.\u201D\r\n\t\u201CNo
+    thanks,\u201D you mutter. \u201CWhat\u2019s the other way?\u201D\r\n\t\u201CYou
+    could crawl in through the air duct,\u201D Jarmal says. \u201CThat way you\u2019ll
+    avoid the robots \u2014 but the ducts are very narrow. Crawling through them could
+    be very, very dangerous.\u201D\r\n\tHow will you enter the building?\r\n\tDecide
+    carefully \u2014 the fate of humans on Earth may depend on your answer!\n\n\n\tPress
+    1 to try to fool the guards?.\r\n\tPress to crawl in through the air duct?."
+  nextStates:
+  - {fileID: 11400000, guid: e05a1d70bf8207e43aeb05a9d77e640c, type: 2}
+  - {fileID: 11400000, guid: c37f59504ce0bb1438dc26c54b7de2a4, type: 2}

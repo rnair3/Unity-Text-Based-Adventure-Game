@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 82
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CI know the answer,\u201D you tell the wizard. \u201CTo make
+    time run backward, you have to twist the head of the cuckoo.\u201D\r\n\tThe wizard
+    waves his arms. A moment later there is a brilliant flash of light and the wizard
+    disappears. In his place stands Denny.\r\n\tYou never thought you\u2019d be so
+    glad to see your little brother.\r\n\t\u201CDenny!\u201D you cry. \u201CI\u2019ve
+    been looking all over for you!\u201D\r\n\t\u201CI\u2019ve been hiding from you!\u201D
+    he replies.\r\n\tYou glance at the chronometer. Now there\u2019s less than thirty
+    minutes till your two hours are up. \u201CDenny,\u201D you tell him, \u201Cwe\u2019ve
+    got to go back to Dr. Peebles\u2019s laboratory. We\u2019ve got to go now \u2014\u201D\r\n\t\u201CYou\u2019re
+    not the boss of me!\u201D he exclaims.\r\n\t\u201CCome on!\u201D you insist. You
+    reach for his hand, but he yanks it away.\r\n\t\u201CI don\u2019t want to go!\u201D
+    he cries. He runs into the mist and disappears at the back of the Lair.\n\n\tPress
+    1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 9b705ee1106494b40a5abebcd1fe34e8, type: 2}

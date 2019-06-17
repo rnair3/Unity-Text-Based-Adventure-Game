@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 29
+  m_EditorClassIdentifier: 
+  storyText: "\tYou decide to try to trick the robot guards. You glance at the chronometer.
+    Less than an hour left to find Denny and return to the present.\r\n\t\u201CWhen
+    you get to the guards,\u201D Jarmal says, \u201Ctell them you have been sent to
+    fix the romiframpton.\u201D\r\n\t\u201CWhat\u2019s that?\u201D you ask.\r\n\t\u201CIt\u2019s
+    the central processor for the plant,\u201D Jarmal says. \u201CEither the guard
+    will believe you and let you through \u2014 or he will vaporize you on the spot.\u201D\r\n\tOh
+    great, you think. No wonder no one else volunteered for this job. Jarmal gives
+    you a pair of white coveralls to put on. You stick the red box in your pocket.
+    \u201CGood luck,\u201D he tells you.\r\n\tYou take a deep breath and approach
+    the entrance to the power plant. A big metal robot with a laser gun stops you.
+    \u201CWhat do you want, human?\u201D it demands.\r\n\t\u201CI\u2019m here to fix
+    the romiframpton,\u201D you say.\r\n\tThe robot hesitates. \u201CWe\u2019ve received
+    no report that it was broken.\u201D Your stomach lurches. Are you going to be
+    vaporized?\n\n\tQuick! Press 1.."
+  nextStates:
+  - {fileID: 11400000, guid: 2954cff8468f7c24394bffefc99f4746, type: 2}

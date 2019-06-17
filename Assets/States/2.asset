@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  storyText: "\tYou rush to the next room, expecting something exciting. But your
+    mom is standing in front of a sundial. \u201CIsn\u2019t this wonderful?\u201D
+    she exclaims. \u201CAn exhibit on time!\u201D\r\n\tGreat, you think. A whole roomful
+    of clocks! Boring!\r\n\tThen Denny gives you a karate kick in the back of the
+    leg.\r\n\t\u201COw!\u201D you cry. \u201CStop it!\u201D\r\n\t\u201CYou\u2019re
+    not the boss of me!\u201D he says smugly.\r\n\t\u201CYes, I am!\u201D you reply,
+    punching him in the arm. He whines and complains to your parents. You can\u2019t
+    win!\r\n\t\u201CI\u2019m thirsty,\u201D Denny says now. You can see he\u2019s
+    eaten almost half a bag of Gummi Bears in less than a minute.\r\n\t\u201CCan you
+    find a drinking fountain for Denny, dear?\u201D your mom asks without taking her
+    eyes off a grandfather clock.\r\n\t\u201CCome on.\u201D You grab Denny\u2019s
+    hand. But Denny pulls away and runs off down a hallway. You follow him. The hallway
+    twists and turns. There\u2019s no sign of either Denny or a water fountain. But
+    near the end of the hall you see a sign on a door:\r\n\r\n\tWARNING!\r\n\tDANGEROUS
+    EXPERIMENT INSIDE\r\n\tTHIS DOOR MUST BE KEPT LOCKED AT ALL TIMES\n\n\tPress 1
+    to go on to next room"
+  nextStates:
+  - {fileID: 11400000, guid: 387a84462ca727041be0e706add361f8, type: 2}

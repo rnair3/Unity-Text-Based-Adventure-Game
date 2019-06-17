@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 12
+  m_EditorClassIdentifier: 
+  storyText: "\tYou reach into the pool of quicksand and feel around for the chronometer.
+    Suddenly, the ground begins to shake violently. Under your feet the earth sways,
+    and a deafening rumble fills the air.\r\n\t\u201CWhat\u2019s going on?\u201D you
+    yell to Denny. Smoke pours out of the top of a nearby mountain.\r\n\t\u201CA volcano!\u201D
+    you shout.\r\n\tA second later, the top of the volcano blows off. Red-hot lava
+    pours out. Even though the volcano is at least a half mile away, you can feel
+    the heat against your skin. Large rocks, glowing white-hot, begin to land in the
+    swamp like bombs. \u201CWatch out!\u201D Denny shrieks. \u201CDuck!\u201D\r\n\tYou
+    cover your head and throw yourself on the ground.\r\n\tWhoomp! A rock just misses
+    you. It splashes into the mud and throws up a shower of mud and water and \u2014
+    something shiny.\r\n\tCould it be? Yes, it\u2019s the chronometer!\r\n\tQuickly,
+    you crawl over and scoop it up. It\u2019s covered with mud. Desperately, you feel
+    for the buttons on the side of the chronometer. Your fingers close on two of them.\n\n\tPress
+    1 to press the buttons"
+  nextStates:
+  - {fileID: 11400000, guid: 2722a74a5bd3c5b4686e4b99fa341d4c, type: 2}

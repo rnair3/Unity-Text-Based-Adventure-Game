@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 48
+  m_EditorClassIdentifier: 
+  storyText: "\tThe robot guard looks you up and down. You keep staring at his gun.\r\n\t\u201CThe
+    romiframpton,\u201D you repeat.\r\n\t\u201CBroken again?\u201D the guard replies.
+    \u201CGo on in. You know where it is.\u201D\r\n\tActually, you don\u2019t have
+    any idea where the romiframpton is. But you don\u2019t care. You\u2019re in!\r\n\tA
+    steel walkway leads straight ahead. Next to it, a ladder stretches up.\r\n\tWhich
+    way is the power source?\n\n\n\tPress 1 and take the walkway.\n\tPress 2 and climb
+    the ladder."
+  nextStates:
+  - {fileID: 11400000, guid: bd20f92ef7e7ec14bb487f3c7927a34d, type: 2}
+  - {fileID: 11400000, guid: d25f37a4de55e4e47b313e41ae33f3a3, type: 2}

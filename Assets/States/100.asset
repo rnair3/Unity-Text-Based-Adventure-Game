@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 100
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019ve got to get away from the fierce tyrannosaur. You grab
+    Denny\u2019s hand and take off through the trees. The dinosaur chases you, but
+    it\u2019s too big to fit easily between the trees.\r\n\tYou and Denny zig one
+    way and zag another. Finally the two of you crouch down behind a thick tree trunk.
+    You both gasp for air.\r\n\tIn the distance, you can see the tyrannosaur. It glances
+    all around. At last it lets out a defeatedsounding roar and ambles off.\r\n\t\u201CWay
+    to go!\u201D Denny shouts. You and your brother high-five each other. Now all
+    you have to do is go back to the swamp and find the chronometer.\r\n\tBut which
+    direction is it? You\u2019ve done so much twisting and turning, you aren\u2019t
+    sure where the swamp is.\r\n\tLuckily, Denny seems to remember the way. You follow
+    him through the forest and finally come to the swampland. As you rush over to
+    the pool of quicksand, all you can think about is the time ticking by.How much
+    longer before Denny disappears forever?\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: fa4895219c40ce54aa746a762f204dbf, type: 2}

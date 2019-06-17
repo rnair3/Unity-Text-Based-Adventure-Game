@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 63
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019re heading over to the green truck when you feel Abe\u2019s
+    heavy hand on your back. \u201CGet in,\u201D he says, shoving you into the back
+    of the red truck. \u201CYou\u2019ve got to unload at the other end.\u201D He slams
+    the door. You\u2019re locked in. There\u2019s no way you can help your family
+    now.\r\n\tYou\u2019re squeezed in with all the boxes you loaded. Even though you
+    loaded dozens of them, you never really looked at them. Some light is coming in
+    from a crack in the roof, so you can make out the address on the boxes: BROOKDALE
+    LABORATORY.\r\n\tThen you notice that there are small holes in the boxes. You
+    put your eye right up against one of the holes and you see an eye staring back
+    at you!\r\n\tCreepy.\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: b0abe0ce1b4393b44bb55e78532be429, type: 2}

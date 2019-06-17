@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 101
+  m_EditorClassIdentifier: 
+  storyText: "\tYou decide to go toward the futuristic city. All around you are buildings
+    made of shiny metal and glass. Cars \u2014 with wings \u2014 fly above your head.
+    The streets are empty and clean, with no litter \u2014 not even a gum wrapper.\r\n\tIs
+    this New York in the future? It certainly looks different from the one you\u2019re
+    visiting in the present.\r\n\tYou\u2019re about to start looking for Denny when
+    a hand closes on your shoulder in an icy grip.\r\n\t\u201CHuman?\u201D a hollow-sounding
+    voice says. \u201CYou\u2019re under arrest!\u201D\r\n\tYou whirl around. Gripping
+    your shoulder is a shiny metal robot with a policeman\u2019s badge welded to its
+    chest. The robot\u2019s face is expressionless, and it\u2019s holding something
+    that looks like a laser gun. No wonder everything is so clean and quiet, you think.
+    The city is run by machines!\r\n\t\u201CDon\u2019t you know that humans aren\u2019t
+    allowed out in the streets?\u201D the robot demands.\r\n\t\u201CI come from \u2026
+    another place,\u201D you quickly reply. \u201CI don\u2019t know your rules. Please
+    give me another chance.\u201D\r\n\t\u201CThat\u2019s for the judge to decide,\u201D
+    the robot says. \u201CCome with me.\u201D\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: e28c36604b5d0e54fa9aadc01ae30bea, type: 2}

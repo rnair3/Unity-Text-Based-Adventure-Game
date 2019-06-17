@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CThe battle has started!\u201D Jarmal shouts. \u201CThe domination
+    of machines over people will end! Are you with us or against us?\u201D\r\n\t\u201CWell,
+    I \u2014\u201D Your words are drowned out by more explosions. The men and women
+    around you have grabbed weapons and are racing down the tunnel.\r\n\t\u201CI\u2019m
+    against the robots!\u201D you shout to Jarmal. \u201CBut I have to find my brother!
+    If I don\u2019t get back to the present, we\u2019ll both be stuck somewhere in
+    time.\u201D\r\n\t\u201CThat\u2019s not my problem!\u201D Jarmal snaps.\r\n\tYou
+    turn away from him.\r\n\t\u201CWe saw a child a day ago,\u201D Jarmal says in
+    a softer tone. \u201CPerhaps he was your brother. But he ran off and hid from
+    us. I promise we\u2019ll help you find him \u2014 but only after you\u2019ve joined
+    us in fighting the robots. Do you agree \u2014 or not?\u201D\r\n\tThink it over
+    carefully. You have only an hour till your time runs out. Can you trust Jarmal
+    to help you find Denny? Or should you go back up to the streets now and look for
+    Denny there?\n\n\tPress 1 to join the rebel.\n\tPress 2 to search for Denny\n"
+  nextStates:
+  - {fileID: 11400000, guid: 0a9c1db7cf1409749971a81b52ef196b, type: 2}
+  - {fileID: 11400000, guid: bf1b83d329b5ddf449bff1f45adbe47b, type: 2}

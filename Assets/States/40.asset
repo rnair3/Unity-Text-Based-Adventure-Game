@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 40
+  m_EditorClassIdentifier: 
+  storyText: "\tWhat would make you and Denny turn around? you wonder. You\u2019ve
+    got to create a distraction.\r\n\tYou glance at the newsstand again, and an idea
+    comes to you. It\u2019s not much \u2014 but it\u2019s the only thing you can think
+    of.\r\n\tQuickly, you check your pockets. You\u2019ve got about thirty dollars
+    \u2014 your allowance, plus some money your dad gave you to buy souvenirs.\r\n\tYou
+    ask the newsstand owner for change. You get a bunch of bills and coins. Suddenly
+    a familiarlooking, red-haired boy runs past you. You stare at him, then glance
+    back at your family. Denny is still with the rest of the family \u2014 what\u2019s
+    he doing here, too?\r\n\t\u201CDenny!\u201D you shout. \u201CWhat are you doing
+    here?\u201D\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 78286639405facc40b405e798c204e7e, type: 2}

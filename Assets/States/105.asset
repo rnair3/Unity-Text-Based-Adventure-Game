@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 105
+  m_EditorClassIdentifier: 
+  storyText: "\tAs the truck bears down on your family, the driver seems totally paralyzed.
+    In fact, he seems to have fainted!\r\n\tYou struggle out of your seat belt. It\u2019s
+    up to you to do something!\r\n\tThis is what you planned for.\r\n\tThis is why
+    you came back to this time. But somehow you didn\u2019t think it would be so hard
+    to stop the truck.\r\n\tMaybe you can steer the truck onto another street. Or
+    should you try to reach the brakes?\r\n\tMake a decision quick!\n\n\n\n\tPress
+    1 to try to steer the truck?\r\n\tPress 2 to go for the brakes?"
+  nextStates:
+  - {fileID: 11400000, guid: b9a52de6ef53c23488a8d66f55b79a6e, type: 2}
+  - {fileID: 11400000, guid: 521df0ba661bd2343ab1c0b60313c4fb, type: 2}

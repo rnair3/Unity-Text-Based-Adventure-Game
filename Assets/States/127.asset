@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 127
+  m_EditorClassIdentifier: 
+  storyText: "\tYou decide to try to get back to Dr. Peebles\u2019s lab. But is there
+    enough time?\r\n\tThe student in front of you has given a wrong answer.\r\n\t\u201CNo!\u201D
+    the girl cries. \u201CGive me another chance!\u201D But the teacher shoves the
+    student into the frammilizer. And now the robot\u2019s red electronic eye fixes
+    on you.\r\n\t\u201CHow many electrons can be found in a pound of taffy?\u201D
+    the teacher asks you.\r\n\tYou grasp the chronometer and place your fingers over
+    the top and bottom buttons to return to Dr.Peebles\u2019s laboratory.\r\n\t\u201CAnswer!\u201D
+    the robot thunders.\r\n\tYou quickly press the buttons.\r\n\tSPROIINNGGG! There
+    is a hideous sound as the chronometer disintegrates in your hand. Tiny wheels
+    and computer chips fly all over your desk.\r\n\t\u201CAnswer the question!\u201D
+    the robot repeats.\r\n\tToo bad. There\u2019s no way you can return to your time.
+    But cheer up \u2014 unless you know the answer to the question, you won\u2019t
+    have to stay in the classroom very long!\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

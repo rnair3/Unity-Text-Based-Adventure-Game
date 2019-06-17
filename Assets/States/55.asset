@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 55
+  m_EditorClassIdentifier: 
+  storyText: "\tYou love the zoo! What a weird punishment, you think, as the police
+    robot takes you away in a flying car.\r\n\tSoon you zoom through the zoo gates.
+    Giraffes, elephants, tigers, and antelopes roam around the grounds. Instead of
+    bars, a shimmering transparent force field separates the animals from the viewers.\r\n\t\u201CYou
+    will remain here,\u201D the robot announces, stopping in front of an exhibit that
+    looks like a living room, with a couch, chairs, and a TV.\r\n\tThe robot yanks
+    the chronometer off your neck.\r\n\t\u201CGive that back!\u201D you shout, but
+    the robot ignores you. It aims its laser gun at the force field around the exhibit.
+    The field dissolves, and the robot pushes you into the exhibit.\r\n\t\u201CWait
+    a minute!\u201D you protest. \u201CYou can\u2019t leave me here!\u201D\r\n\t\u201CI\u2019m
+    sure you will be comfortable,\u201D the robot tells you. It zaps its gun again,
+    and the force field goes back up.\r\n\t\u201CNo!\u201D you cry, trying to push
+    through the force field.\r\n\tThen a group of robots approaches. Two little ones
+    point and make strange coughing noises.\r\n\tWhat are they pointing at?\n\n\tPress
+    1 to find out."
+  nextStates:
+  - {fileID: 11400000, guid: dc884b046395d2548b95480c82581294, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 103
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CThe three objects are a pin, a pipe, and a potato,\u201D you
+    tell the robot.\r\n\t\u201CWRONG!\u201D the teacher thunders. \u201CYou know the
+    penalty for a wrong answer! Now step forward!\u201D\r\n\tYou start toward the
+    frammilizer. Slowly you feel for the chronometer around your neck. But before
+    you can press any buttons, the robot snatches it away with its magnetic claws.\r\n\t\u201CNo
+    tricks!\u201D the robot says. \u201CNow enter the frammilizer!\u201D\r\n\tThere\u2019s
+    no way out now.\r\n\tAs you step into the strange metal box, your heart sinks
+    to the bottom of your toes. You\u2019re a complete failure. You haven\u2019t found
+    Denny, and you couldn\u2019t answer the teacher\u2019s question. Then again, you\u2019re
+    about to become the first kid you know to be frammilized.\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 122
+  m_EditorClassIdentifier: 
+  storyText: "\tYou reach out to grab Denny before hitting the buttons on the chronometer.\r\n\t\u201CNOOO!\u201D
+    Denny shrieks. He pulls away and tears off down the street.\r\n\t\u201CDenny,
+    come back here!\u201D you yell. But Denny keeps going. He darts across the street
+    and runs smack into his double \u2014 the future Denny. They both fall onto the
+    sidewalk.\r\n\tYour mother\u2019s face goes white when she sees two Dennys.\r\n\t\u201COkay,\u201D
+    your father demands. \u201CWhich one of you is really my son?\u201D\r\n\t\u201CI
+    am!\u201D says one of the red-haired Dennys.\r\n\t\u201CI am,\u201D insists the
+    other one. He punches the first one on the arm. The other Denny punches back.\r\n\tYou\u2019ve
+    got to do something! You rush across the street and grab both Dennys. Then you
+    push the buttons on the chronometer.\n\n\n\r\n\tPress 1 to travel back to the
+    present"
+  nextStates:
+  - {fileID: 11400000, guid: 9a558dbae572e434d95fca242c5be844, type: 2}

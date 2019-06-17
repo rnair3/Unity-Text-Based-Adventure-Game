@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 45
+  m_EditorClassIdentifier: 
+  storyText: "\tYou step between the bookcases and find yourself in a small, dark
+    cave filled with piles of straw. The air is damp and smells terrible.\r\n\tIn
+    one corner there\u2019s a dent in the straw, as if a very large animal has been
+    lying there. Next to the dent is a pile of bones with teeth marks in them.\r\n\t\u201CDenny?\u201D
+    you call nervously. \u201CDenny, are you in here?\u201D\r\n\t\u201CHelp me!\u201D
+    A sudden, faint voice fills the cave. It\u2019s your brother. \u201CHelp me!\u201D
+    he cries again.\r\n\tThe voice seems to be coming from the back of the little
+    cave. You crawl farther back and see several piles of straw and a small opening.
+    You press your eye up to the opening and peer inside. In the darkness, several
+    tiny red lights glow.\r\n\t\u201CHelp!\u201D Denny\u2019s voice sounds fainter
+    and more terrified.\r\n\tBut where is he? Is he hiding behind one of the piles
+    of straw? Or did he go through the opening?\r\n\tMake a decision quickly. Time
+    is running out!\n\n\n\tIf you crawl through the opening with the red lights, press
+    1.\r\n\tIf you stay in the cave, press 2."
+  nextStates:
+  - {fileID: 11400000, guid: 788129c1a22b06243b8364979f12a007, type: 2}
+  - {fileID: 11400000, guid: 0c56668e7f2dfcb43bbdcfb982d6d4ef, type: 2}

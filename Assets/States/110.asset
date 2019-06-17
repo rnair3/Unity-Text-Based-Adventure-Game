@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 110
+  m_EditorClassIdentifier: 
+  storyText: "\tYou reach the swamp and grab Denny\u2019s hands. With all your might,
+    you pull. But Denny is completely stuck!\r\n\tYou pull Denny again. This time
+    he panics. He grabs wildly at you. The chronometer flies off the chain around
+    your neck and into the mud.\r\n\tNow the tyrannosaur is only a few yards away.
+    Its terrible face is so close, you can see its sharp, pointed teeth and smell
+    its hot, stinking breath. The dinosaur roars, shaking the nearby trees.\r\n\tYou
+    yank Denny one more time. With a loud plop! he\u2019s freed from the quicksand.
+    But now the tyrannosaur is only a few feet away. It opens its mouth wide and stretches
+    its fierce claws toward you.\r\n\tFrantically, you look around for the chronometer.
+    You\u2019ve got to get back to the present. But there\u2019s no trace of the stopwatch.
+    It\u2019s been sucked into the mud!\r\n\tShould you try to dig the chronometer
+    out of the muck? Or try to run away from the tyrannosaur? \n\tWhich will you choose?\n\n\n\tPress
+    1, if you decide to dig for the chronometer.\r\n\tPress 2, if you think you can
+    escape the tyrannosaur?"
+  nextStates:
+  - {fileID: 11400000, guid: 7ded7f42a7477a24bb686fb07ecec818, type: 2}
+  - {fileID: 11400000, guid: 482f1465943e41d4a8b15fb8bb4eaaea, type: 2}

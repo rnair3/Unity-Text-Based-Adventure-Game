@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 108
+  m_EditorClassIdentifier: 
+  storyText: "\tYou decide to take your chances in the moat.\r\n\tSPLASH! The water
+    is cold \u2014 but at least you escaped that fierce-looking knight.\r\n\tThen
+    you hear it \u2014 a loud clacking sound.\r\n\tA crocodile snapping his jaws.
+    He\u2019s right in front of you! And he looks mighty hungry!\r\n\tYou turn away
+    from the crocodile and swim in the opposite direction. You wish you could swim
+    faster. The crocodile\u2019s gaining on you!\r\n\tSuddenly another crocodile pops
+    up in your path. And another.\r\n\tYou\u2019re totally surrounded by hungry green
+    crocodiles!\r\n\tYou grab for the chronometer around your neck. But before you
+    can press the buttons, the crocodile nearest you snatches it out of your hand.\r\n\tIn
+    one gulp, he swallows it!\r\n\tToo bad. The chronometer was only the appetizer.
+    The main course is about to be served \u2014 and it\u2019s you!\n\n\n\tPress 1
+    to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

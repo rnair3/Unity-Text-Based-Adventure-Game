@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 92
+  m_EditorClassIdentifier: 
+  storyText: "\tYou crawl through the small opening. In the darkness the red lights
+    glitter like jewels.\r\n\tSticky, ropelike strands hang from the walls and ceiling.
+    At the end of each strand there\u2019s a big gray lump.\r\n\tYou move closer to
+    the strands and shudder.\r\n\tThe strands are part of a big spiderweb! And the
+    big gray lumps are the bodies of giant insects!\r\n\t\u201CHelp me!\u201D a voice
+    cries out.\r\n\tAs you stare at the web you realize one of the wrapped-up insects
+    is much larger than the others.\r\n\t\u201CHelp me!\u201D\r\n\tIt\u2019s Denny!
+    A giant spider has wrapped him up in its silk!\n\n\n\tQuick! Press 1"
+  nextStates:
+  - {fileID: 11400000, guid: e8d1727c576806744b3371d959c7657b, type: 2}

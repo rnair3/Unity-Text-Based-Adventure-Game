@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 21
+  m_EditorClassIdentifier: 
+  storyText: "\tAs you look on in horror, your father sees the runaway truck. He throws
+    out his arms to hold back you, your mother, and Denny.\r\n\tYour family halts
+    in their tracks \u2026 and the truck speeds on past!\r\n\tYou did it! You saved
+    your family!\r\n\tNow you\u2019ve got to grab Denny and get back to Dr. Peebles\u2019s
+    lab.\r\n\t\u201CCome on, Denny,\u201D you call.\r\n\t\u201CNo!\u201D Denny cries.
+    \u201CYou can\u2019t make me!\u201D\r\n\tYou glance at the chronometer. Dr. Peebles
+    said you had to return within two hours of real time. The minutes are ticking
+    by. You have to take Denny back as soon as possible, or you could get lost in
+    time.\r\n\tYou\u2019re bigger and stronger \u2014 should you just grab him? Or
+    can you talk him into going with you?\n\n\tGrab Denny? And press 1 to continue.\r\n\tTalk
+    him into it? Press 2 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: 2067be411df524e42a302e26e495e431, type: 2}
+  - {fileID: 11400000, guid: 5ccc070024cb7eb4aadbcbe7175266b6, type: 2}

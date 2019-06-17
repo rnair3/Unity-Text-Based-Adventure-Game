@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 19
+  m_EditorClassIdentifier: 
+  storyText: "\tYou step up to the wizard\u2019s door, take a deep breath, and pull
+    it open. Inside is a dim, smoky room. It\u2019s filled with a jumble of books,
+    tables, pots of boiling liquid, crystal balls, and other strange magical equipment.\r\n\t\u201CHello!\u201D
+    you call. \u201CDenny? Is anyone here?\u201D\r\n\tThe only answer is a rustling
+    sound behind you.\r\n\t\u201CDenny?\u201D you shout, whirling around.\r\n\tYou
+    gasp when you see what\u2019s there.\r\n\tCrouched on a pile of rags behind the
+    table is the biggest lizard you\u2019ve ever seen. Around its neck is an iron
+    collar with a name tag that reads \u2026 WIZARD!\r\n\tA lizard named Wizard?\r\n\tThe
+    lizard\u2019s cold black eyes gaze at you. Its narrow tongue flicks in and out.
+    You take a step backward.\r\n\tAs the reptile starts toward you, you recognize
+    the pile of rags it was sitting on \u2014 Denny\u2019s clothes!\r\n\tYou swallow
+    hard. Now you know what happened to your brother\u2026.\r\n\tAnd what will happen
+    to you!\n\n\tPress 1 to continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

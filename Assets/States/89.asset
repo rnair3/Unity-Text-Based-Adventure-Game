@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 89
+  m_EditorClassIdentifier: 
+  storyText: "\tYou follow the robot into a big, glass-walled building. He leads you
+    to a courtroom. A shiny robot dressed in black sits behind a tall desk.\r\n\tThe
+    judge, you realize.\r\n\t\u201CYou are accused of appearing in the streets, human,\u201D
+    the judge says. \u201CHow do you plead?\u201D\r\n\t\u201CGuilty, Your Honor,\u201D
+    you say. \u201CBut I didn\u2019t \u2014\u201D\r\n\t\u201CSilence!\u201D the judge
+    cuts you off. \u201CThere are no excuses. For punishment, you may have your choice:
+    You will be sentenced to school or to the zoo.\u201D\r\n\tSchool? The zoo? What
+    kind of punishment is this? To find out, make a choice now.\n\n\r\n\tPress 1 to
+    get sentenced to school.\r\n\tPress 2 to go to the zoo."
+  nextStates:
+  - {fileID: 11400000, guid: 4c2acea463a92554e8e3ce3b2fbc248e, type: 2}
+  - {fileID: 11400000, guid: 2b16eb121649a524aacaa8af98fa7b2d, type: 2}

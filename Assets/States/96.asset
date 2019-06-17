@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 96
+  m_EditorClassIdentifier: 
+  storyText: "\tYou press the button under your middle finger and immediately feel
+    a tingling sensation. When it stops, you\u2019re standing near small trees. In
+    the distance long-necked dinosaurs are grazing on some plants.\r\n\tDinosaurs!
+    How far back in time have you gone? You don\u2019t have time to think about it
+    when Denny says, \u201CLook at these weird rocks!\u201D\r\n\tDenny\u2019s standing
+    next to six round, speckled boulders. They\u2019re not rocks, you realize. They\u2019re
+    eggs. Dinosaur eggs! As you stare at the rocks, you hear a steady tapping sound.
+    Then one of them begins to crack.\r\n\t\u201CWow!\u201D you cry. \u201CI think
+    this egg\u2019s about to hatch!\u201D\r\n\t\u201CI want to do something else,\u201D
+    Denny whines. \u201CI\u2019m bored.\u201D He grabs the chronometer and runs off.\r\n\t\u201CDenny,
+    come back!\u201D you scream. But he keeps running.\r\n\tYou\u2019re going to have
+    to go after him. But if you do, you\u2019ll miss the coolest thing that\u2019s
+    happened since you got here. What should you do?\n\n\n\n\tPress 1 to watch the
+    egg hatch.\r\n\tPress 2 to chase Denny."
+  nextStates:
+  - {fileID: 11400000, guid: 2f1151925adaa014fbc2d2241c20f7e3, type: 2}
+  - {fileID: 11400000, guid: 0376e69011ddec343990d5f4e037d747, type: 2}

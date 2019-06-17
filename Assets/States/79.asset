@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 79
+  m_EditorClassIdentifier: 
+  storyText: "\tYou decide to sneak in through the air duct. Jarmal leads you through
+    the trees to the back of the power plant. The air duct is a small opening near
+    ground level. Slipping the red box of explosives under your shirt, you climb into
+    the opening. Then you begin to inch your way along the duct.\r\n\tThe duct is
+    so small you can scarcely move. As you go farther in, the space becomes even tighter.
+    You crawl another foot \u2014 then realize you are stuck! You can\u2019t go forward,
+    and you can\u2019t go back. And your hands are trapped at your sides. You can\u2019t
+    reach the explosives or the chronometer.\r\n\tYou are about to yell for help when
+    you hear shouting outside.\r\n\tWhump!\r\n\tLaser guns fire. The robots must have
+    found the rebels!\r\n\t\u201CThe small human is in the air duct, Commander!\u201D
+    a robot says. \u201CWe\u2019ll close the air duct so it can\u2019t breathe!\u201D\r\n\tCLANG!\r\n\tThe
+    cover of the air duct bangs shut.\r\n\tLooks like you\u2019ve picked the wrong
+    side in this battle, human. Sadly, your adventure has come to a breathtaking.\n\n\tPress
+    1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

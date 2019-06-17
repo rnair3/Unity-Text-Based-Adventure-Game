@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 77
+  m_EditorClassIdentifier: 
+  storyText: "\tStrolling down the block in front of you is a familiar-looking family:
+    a father, a mother, and two kids. There\u2019s a very good reason why the family
+    looks so familiar. It\u2019s your family.\r\n\tYou watch as your Mom, Dad, Denny,
+    and you continue down the block. Your parents are talking to each other, and you
+    and Denny seem to be arguing \u2014 some things will never change.\r\n\tYou watch
+    as Denny gives you a karate chop in the arm, and you punch him back.\r\n\tIt feels
+    so strange to watch yourself like this. There are two of you in the same place!
+    What would happen if you spoke to your future self?\r\n\tYou still haven\u2019t
+    decided what to do when your family reaches the corner. The light changes and
+    they start to cross to the other side of the street.\r\n\tA moment later you hear
+    frightened screams and shouts, and then loud honking. You turn toward the noise.
+    A green truck is speeding down the street.\r\n\tThe truck shows no sign of slowing
+    down, and it\u2019s headed straight toward your family!\n\n\tQuick!! Press 1"
+  nextStates:
+  - {fileID: 11400000, guid: b15f48f8054eebe4c9978c86eeae3cda, type: 2}

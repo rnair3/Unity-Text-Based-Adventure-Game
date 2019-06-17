@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 22
+  m_EditorClassIdentifier: 
+  storyText: "\tIf only you\u2019d taken swimming lessons when your mom wanted you
+    to! You decide not to jump into the moat. You face the knight and his spear.\r\n\tRight
+    before he reaches you, the knight reins in his horse.\r\n\t\u201CWho are you,
+    stranger?\u201D he demands.\r\n\t\u201CI\u2019m a visitor from the future. I\u2019m
+    searching for my brother.\u201D\r\n\t\u201CNo one enters King Ruthbert\u2019s
+    castle unless he can meet the challenge!\u201D he replies.\r\n\t\u201CWhat challenge?\u201D
+    you ask.\r\n\t\u201CYou must fight me, his Noble Defender, in a duel,\u201D the
+    knight says with a smirk. \u201CThe loser will become food for the king\u2019s
+    crocodiles in the moat.\u201D\r\n\tCrocodiles in the moat? Good thing you didn\u2019t
+    jump in after all!\r\n\tThe knight dismounts and pulls a bag of weapons from his
+    saddle. You see a spear, a sword, a spiky chain, and a huge wooden club. \u201CHere,
+    you may choose your weapon,\u201D he says.\r\n\tThis guy really wants to have
+    a duel?\r\n\t\u201CWell,\u201D the knight says impatiently. \u201CChoose!\u201D\n\n\tChoose
+    your weapon by pressing 1."
+  nextStates:
+  - {fileID: 11400000, guid: 09011c1684fadd9499745c6613905669, type: 2}

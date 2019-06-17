@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 18
+  m_EditorClassIdentifier: 
+  storyText: "\tHerring Bros. is a big garage on the ground floor of a large high-rise
+    building. You step inside. There are just a few trucks. The only green one is
+    easy to spot by the far wall.\r\n\tIn a booth by another wall, a woman with a
+    microphone and headset sits behind a glass window. She\u2019s the dispatcher for
+    the delivery firm. Maybe you can stop her from sending out the truck. Or would
+    it be better to talk to the truck driver himself?\n\n\tPress 1 to speak to the
+    dispatcher.\r\n\tPress 2 to talk to the driver."
+  nextStates:
+  - {fileID: 11400000, guid: a9618afb98ef6234aa1be2ef1533ec7f, type: 2}
+  - {fileID: 11400000, guid: 04bb10698dded0441befbe4cb4572002, type: 2}

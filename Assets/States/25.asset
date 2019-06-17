@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 25
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CI\u2019m a new crew member,\u201D you lie to the captain. \u201CI\u2019m
+    not a spy. I\u2019ve been working in the Hydroponics area.\u201D\r\n\t\u201CThen
+    why didn\u2019t you know the antigrav device is off limits?\u201D she demands.\r\n\t\u201CI
+    haven\u2019t finished reading the rule book,\u201D you say.\r\n\t\u201CMaybe so,\u201D
+    the captain grumbles. She hesitates, then fires a question at you. \u201CAre the
+    crew quarters forward or aft?\u201D\r\n\t\u201CAft,\u201D you reply, hoping you\u2019re
+    right.\r\n\t\u201CThat\u2019s correct,\u201D she says. \u201CBut if you are a
+    real crew member, what is the code for a space drill? A-Zero or X-Two?\u201D\r\n\t\u201CA-Zero,\u201D
+    you tell her.\r\n\t\u201CYou are an imposter and a spy!\u201D she shouts in triumph.
+    \u201CThere is no space drill \u2014 and even the newest rookie knows it!\u201D
+    She turns to the robot guards at her side. \u201CShove this spy out through the
+    airlock!\u201D she orders.\r\n\t\u201CHey \u2014 what about partial credit?\u201D
+    you yell. But it\u2019s no good. As you step out of the airlock, your whole body
+    explodes.\r\n\tVery messy. Very scary. Very much.\n\n\tPress 1 to continue...."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

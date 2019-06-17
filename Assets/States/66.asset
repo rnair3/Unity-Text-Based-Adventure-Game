@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 66
+  m_EditorClassIdentifier: 
+  storyText: "\tA tingling sensation races through your body as you\u2019re transported
+    back to the present and the Museum of Natural History. When the misty air clears,
+    you\u2019re back in the time exhibit, standing near a sundial.\r\n\t\u201CCome
+    on,\u201D you say to Denny, sighing with relief. \u201CLet\u2019s go find Mom
+    and Dad.\u201D\r\n\t\u201CNo way,\u201D two voices reply in stereo. \u201CYou\u2019re
+    not the boss of me.\u201D\r\n\t\u201COh, no,\u201D you moan out loud as you realize
+    what you\u2019ve done.\r\n\tBoth Dennys have returned to the present with you!\r\n\tYou\u2019ve
+    saved your brother\u2019s life, but ruined your own.\n\n\tPress 1 to continue.."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

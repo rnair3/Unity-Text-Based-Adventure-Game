@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 124
+  m_EditorClassIdentifier: 
+  storyText: "\tYou ask someone to point out the driver of the green truck. He\u2019s
+    a gray-haired man in a plaid jacket.\r\n\tNow you have to decide what to say to
+    him. Maybe you can get him to take you along with him, and then, at the crucial
+    moment, you can steer the truck away from your family.\r\n\tFinally, you come
+    up with two plans. You could tell him you\u2019re from out of town and you\u2019re
+    lost, and you want a ride to your hotel. Or you could pretend the dispatcher wants
+    him to take you along on the next delivery.\r\n\tWhich will you choose?\n\n\n\n\tPress
+    1 to tell the driver you\u2019re lost.\r\n\tPress 2 to petend the dispatcher sent
+    you."
+  nextStates:
+  - {fileID: 11400000, guid: cdfb573af9665f845a92f4ead0692c9e, type: 2}
+  - {fileID: 11400000, guid: addfe5b538059f54391e3d8cc3336a33, type: 2}

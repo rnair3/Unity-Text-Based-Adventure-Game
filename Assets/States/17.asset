@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 17
+  m_EditorClassIdentifier: 
+  storyText: "\tDenny shrugs and starts to explain. \u201CI went through that door,
+    and \u2014\u201D\r\n\tBut time is running out. You cut him off. \u201CStay here,
+    okay?\u201D\r\n\t\u201CYou\u2019re not the boss of me!\u201D Denny whines.\r\n\tYou
+    groan. Your little brother is never going to cooperate unless you tell him the
+    plan.\r\n\tYou whisper in his ear.\r\n\tDenny gives you a big smile. \u201CI\u2019ll
+    stay around for that,\u201D he promises.\n\n\tPress 1 to continue..."
+  nextStates:
+  - {fileID: 11400000, guid: d5e966bf2cf892d4b9163fafcbef03b4, type: 2}

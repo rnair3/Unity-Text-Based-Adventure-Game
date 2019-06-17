@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 85
+  m_EditorClassIdentifier: 
+  storyText: "\tThe knights drag you to a platform above the pot of boiling oil. With
+    a gulp you look down into the seething black fluid. In another second you\u2019ll
+    be sizzling like fried chicken!\r\n\tYou twist your hands behind your back. But
+    the ropes are too tight to break through.\r\n\tThe king and Denny climb up to
+    the roof to watch.\r\n\t\u201CDo you have any last words, spy?\u201D the king
+    asks.\r\n\t\u201CYes!\u201D you say. \u201CPlease let me take Denny \u2026 er
+    \u2026 your son away from here. If he stays he\u2019s doomed!\u201D\r\n\t\u201CNever!\u201D
+    the king roars. \u201CPrepare to carry out the sentence!\u201D\r\n\t\u201CDenny!\u201D
+    you plead. \u201CYou can\u2019t let him do this! You\u2019ve got to listen to
+    me! Tell him not to do it!\u201D\n\nPress 1 to hear Denny\u2019s reply"
+  nextStates:
+  - {fileID: 11400000, guid: f675b4a0785225245881bb8e4e28b8e5, type: 2}

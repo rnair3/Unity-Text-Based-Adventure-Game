@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 72
+  m_EditorClassIdentifier: 
+  storyText: "\tYou grab Denny\u2019s hand and press the chronometer buttons to escape.\r\n\tNothing
+    happens.\r\n\t\u201CWhat\u2019s going on?\u201D Denny whines, tugging at your
+    arm.\r\n\t\u201CI don\u2019t know,\u201D you snap.\r\n\tYou let go of Denny\u2019s
+    hand and stare closely at the face of the chronometer. It looks okay. Same as
+    always. You wonder what went wrong.\r\n\tThen the lion roars. Loudly!\r\n\tYou
+    shake the chronometer up and down. And try pressing the buttons again. Your body
+    starts to tingle.\r\n\tIt\u2019s working! you think. You shut your eyes tightly.
+    Your fingertips tingle with what feels like an electric current.\r\n\tYou open
+    your eyes. You can\u2019t believe it! You\u2019re not back in Dr. Peebles\u2019s
+    lab. You\u2019re still in the castle. In front of a door that says KING RUTHBERT\u2019S
+    THRONE ROOM.\r\n\tThe lion is gone. But where is Denny?\r\n\tAnd then you remember
+    \u2014 you didn\u2019t hold Denny\u2019s hand. You\u2019ve lost him all over again!
+    And time\u2019s running out!\n\n\n\tPress 1 to search for Denny again"
+  nextStates:
+  - {fileID: 11400000, guid: 930786d3901a9d74cb2f5f386069496c, type: 2}

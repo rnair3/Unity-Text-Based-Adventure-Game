@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 113
+  m_EditorClassIdentifier: 
+  storyText: "\tYou crouch down and open the foot-high wooden door to the Lair of
+    the Lizard. You can\u2019t see anything but darkness. You hold your breath to
+    make yourself smaller, then wriggle through the door on your stomach.\r\n\tInside,
+    you stand up. You\u2019re in a dark, misty room. Flies and other insects dart
+    from wall to wall.\r\n\tA bearded man in flowing robes bursts into the room from
+    another door. He peers through the mist. \u201CWizard!\u201D he calls. \u201CWizard!
+    Where are you?\u201D\r\n\t\u201CExcuse me?\u201D you say politely. \u201CAren\u2019t
+    you the wizard?\u201D\r\n\t\u201COf course I am!\u201D he bellows. \u201CI\u2019m
+    the wizard, but I can\u2019t find my lizard named Wizard. Have you seen him?\u201D\r\n\t\u201CNo,\u201D
+    you say, \u201Cbut I\u2019m looking for someone, too. I \u2014\u201D\r\n\t\u201CI
+    know who you are and what you seek,\u201D he interrupts. \u201CYou are a traveler
+    in time.\u201D\r\n\t\u201CYes,\u201D you tell him, surprised. \u201CAnd I\u2019m
+    looking \u2014\u201D\r\n\t\u201CThe young boy you seek is lost in the Corridors
+    of Time,\u201D he says. \u201CTo find him, you must answer a question of time.\u201D\r\n\tAt
+    the mention of time, you glance at the chronometer. Time is running out!\n\n\n\tTo
+    answer the question, hurry press 1 "
+  nextStates:
+  - {fileID: 11400000, guid: 3ffab8189fa384b4e8d26f941766067f, type: 2}

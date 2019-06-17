@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CHe\u2019s just an ordinary twenty-first-century kid!\u201D you
+    protest.\r\n\t\u201CI\u2019m not ordinary!\u201D Denny yells. \u201CI don\u2019t
+    like this person,\u201D he adds, whining to the king.\r\n\t\u201CListen to me,
+    Denny!\u201D you shout. \u201CYou\u2019re in big trouble. You\u2019ve got to come
+    with me now!\u201D\r\n\t\u201CYou\u2019re not the boss of me!\u201D Denny yells.\r\n\t\u201CBoil
+    this spy in oil!\u201D shouts the king.\r\n\t\u201CYeah!\u201D Denny agrees, clapping.
+    \u201CBoil the spy in oil!\u201D\r\n\t\u201CDenny, you\u2019re my brother!\u201D
+    you protest in horror. But Denny just smirks his obnoxious smirk.\r\n\tThen the
+    two knights grab you and begin to drag you out of the Throne Room.\r\n\t\u201CWait!\u201D
+    you shout. \u201CYou\u2019re making a terrible mistake!\u201D\r\n\tBut no one
+    listens. You\u2019re dragged up to the roof of the castle. There, you see a bubbling
+    black pot.\r\n\tYikes! Your hands are tied behind you. You can\u2019t use the
+    chronometer. Unless a miracle happens, you\u2019re about to be boiled in oil!\r\n\tIs
+    this your lucky day?\n\n\tPress 1, if today\u2019s date is an ODD number\n\tPress
+    2, if today\u2019s date is an EVEN number"
+  nextStates:
+  - {fileID: 11400000, guid: e700115ee7316b24899f223794647080, type: 2}
+  - {fileID: 11400000, guid: c97185ce09911834ca3a10173abfb359, type: 2}

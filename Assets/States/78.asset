@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 78
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CYeah, get out of here!\u201D Denny adds. A karate chop lands
+    on your arm.\r\n\tYou can\u2019t help it. You punch him back. \u201CDon\u2019t
+    be a jerk!\u201D you say. \u201CTurn around now! If you don\u2019t, something
+    terrible will happen!\u201D\r\n\t\u201CYou\u2019re not the boss of me!\u201D Denny
+    yells. He rushes toward the intersection.\r\n\t\u201CStop!\u201D you yell again.
+    Denny turns around and kicks you, hard, in the shin. You are so mad you grab him
+    in a headlock. \u201CSay you\u2019re sorry!\u201D you yell.\r\n\t\u201CYou\u2019re
+    not the boss of me!\u201D Denny screams again.\r\n\tThis time the other you jumps
+    into the fight. While you hold on to Denny\u2019s neck, the you from the future
+    pokes him in the chest.\r\n\t\u201CSay you\u2019re sorry,\u201D you demand, tightening
+    your hold on his neck. \u201CSay it.\u201D\r\n\tThis time you don\u2019t even
+    see the truck bearing down on you and your family. It\u2019s too much fun having
+    two of you to gang up on Denny!\n\n\tPress 1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

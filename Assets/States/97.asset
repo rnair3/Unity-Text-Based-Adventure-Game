@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 97
+  m_EditorClassIdentifier: 
+  storyText: "\tThe squealing of brakes fills the air. The truck lurches to a stop
+    right before your family.\r\n\tCRASH!\r\n\tA taxicab slams into the back of the
+    truck. Horns blare and several drivers jump from their cars as a horrible stench
+    fills the air.\r\n\tWhat\u2019s going on?\r\n\tYou leap out of the truck and run
+    around to the back. Luckily, the driver of the taxi is fine, but the truck\u2019s
+    back doors have been smashed in. And now a river of dead, slippery fish is flowing
+    out of the back, onto the taxicab\u2019s hood, and into the street.\r\n\tP.U.!\r\n\tYou
+    grab the chronometer and push down on the buttons.\r\n\tYou\u2019re sorry about
+    leaving Denny behind in the future, but, as he always says \u2014 you\u2019re
+    not the boss of him.\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

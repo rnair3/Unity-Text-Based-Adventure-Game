@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 13
+  m_EditorClassIdentifier: 
+  storyText: "\tYou push the driver aside and manage to get your hand on the steering
+    wheel.\r\n\tYou try to pull the truck to the right, but it\u2019s much harder
+    than you thought. The horrified faces of your family \u2014 including your own
+    \u2014 loom in the windshield.\r\n\t\u201CGET OUT OF THE WAY!\u201D you scream.\r\n\tIn
+    desperation, you pull again on the wheel. With a sudden lurch, the truck veers
+    to the right.\r\n\tYou breathe a sigh of relief. You\u2019ve done it! You\u2019ve
+    saved your family!\r\n\tBut you\u2019d better hold on tight. You still can\u2019t
+    stop the truck. And this time the runaway vehicle is headed right at a brick wall!
+    Stop reading right here. You don\u2019t really want to know what happens next.
+    Let\u2019s just say you were a hit on Broadway.\n\n\tPress 1 to continue...."
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}

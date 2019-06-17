@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 16
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CI think my brother went to the future,\u201D you announce.\r\n\t\u201CI
+    hope you\u2019re right.\u201D Dr. Peebles punches another computer key. \u201CAre
+    you ready? Step through the Chronoport.\u201D\r\n\tYou enter the glowing frame.
+    As you move through it you feel a strange tingling sensation.\r\n\t\u201COne more
+    thing!\u201D Dr. Peebles calls out. His voice sounds far away. \u201CBefore you
+    can return, remember \u2014\u201D\r\n\t\u201CWhat?\u201D you cry as his words
+    fade away. What was he saying?\r\n\tAhead of you in the mist are two scenes: a
+    big, futuristic-looking city with small cars flying around like planes.\r\n\tAnother
+    view seems to be of New York City. You recognize a few buildings, like One World
+    Trade Center and the Empire State Building. As you watch, a small red-haired boy
+    who looks like Denny disappears behind another tall building. But is it really
+    your brother?\r\n\tMake a decision!\r\n\n\tPress 1 if you think that Denny is
+    in the strange city? \n\tOr is he the red-haired boy in New York then press 2."
+  nextStates:
+  - {fileID: 11400000, guid: ed038374ea1c8924580c473a8ed42238, type: 2}
+  - {fileID: 11400000, guid: 02329bd7abafd2b4b9080034265bce57, type: 2}

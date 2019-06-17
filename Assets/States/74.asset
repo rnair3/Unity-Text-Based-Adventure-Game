@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 74
+  m_EditorClassIdentifier: 
+  storyText: "\tYou follow the purple sign and rush into the Engine Room area. It\u2019s
+    crammed with machinery and monitor screens. At the center is a control panel with
+    banks of blinking lights. Next to the control panel is a clear plastic chamber,
+    about the size of a car, labeled ANTIGRAV.\r\n\tInside the chamber is a small
+    figure that\u2019s floating and turning in midair.\r\n\tIt\u2019s Denny! You yank
+    open the door. \u201CDenny!\u201D you call. \u201CWe\u2019ve got to get back to
+    the present right now!\u201D\r\n\t\u201CI don\u2019t want to,\u201D he whines.\r\n\tYou
+    step into the chamber, but your feet don\u2019t touch the floor. There\u2019s
+    no gravity here \u2014 you\u2019re weightless! You get a funny feeling in your
+    stomach as you start to float around.\r\n\tYou grab for your brother \u2014 but
+    he easily twists away. You find yourself upside down. If you weren\u2019t so worried
+    about returning to your own time, this would be fun. \u201CCome on, Denny!\u201D
+    you beg.\r\n\t\u201CYou\u2019re not the boss of me.\u201D He sneers at you.\r\n\tYou
+    grab for him again \u2014 and miss. Then you glance outside the chamber \u2014
+    a robot guard has his laser gun pointed straight at you.\n\n\n\tPress 1 to continue."
+  nextStates:
+  - {fileID: 11400000, guid: 70d2ef47f92b4a34cbba7d2392efd88f, type: 2}

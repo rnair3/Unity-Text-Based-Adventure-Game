@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 26
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CExcuse me, sir,\u201D you say, approaching the truck driver.
+    \u201CThe dispatcher said you might be able to help me,\u201D you explain. \u201CMy
+    family and I are from out of town. I got separated from them earlier, and I\u2019m
+    wondering if you can give me a ride to my hotel.\u201D\r\n\t\u201CSure thing,
+    kid,\u201D he says. \u201CWhere is it?\u201D\r\n\tYou give him the address, near
+    the Museum of Natural History.\r\n\t\u201CThat\u2019s right on my way,\u201D he
+    says. \u201CCome on, let\u2019s get started.\u201D\r\n\tWith a smile of relief,
+    you follow him to the truck and strap yourself into the passenger seat.\r\n\t\u201CHow
+    do you like the city, kid?\u201D he asks as the truck barrels along a broad avenue.\r\n\t\u201CIt\u2019s
+    great!\u201D you tell him. \u201CLots of interesting \u2014\u201D\r\n\t\u201CUh-oh!\u201D
+    the driver interrupts. \u201CThe accelerator!\u201D he yells. \u201CIt\u2019s
+    stuck!\u201D\r\n\tThe truck tears down the street. You glance back and forth from
+    the driver to the crowded intersection straight ahead. You can see your family
+    about to cross the street \u2014 and the truck is gaining speed!\n\n\tPress 1
+    to continue."
+  nextStates:
+  - {fileID: 11400000, guid: 3b9f450c1fc86754da34dd7f7fef9b08, type: 2}

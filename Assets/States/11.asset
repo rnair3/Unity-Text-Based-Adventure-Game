@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  storyText: "\tDenny loves dinosaurs. You decide to explore the swamp where you saw
+    the dinosaur. You\u2019re sure Denny went that way.\r\n\tAs you move toward the
+    swamp, tall, fernlike vegetation surrounds you. Your feet sink into the thick,
+    mucky water.\r\n\tThrough the trees you can see huge shapes moving about. Real
+    dinosaurs! Cool! you think. This is just like Jurassic Park \u2014 only better!\r\n\tThe
+    dinosaurs are red, blue, green, and lavender \u2014 as colorful as birds. Some
+    dinosaurs are the size of dogs and cats. Other dinosaurs are bigger than a house.
+    They\u2019re all munching on leaves and weeds.\r\n\tYou\u2019re about to move
+    closer when a tremendous noise shakes the ground.\r\n\tThe trees sway as the rumbling
+    grows louder. And louder. What\u2019s happening?\r\n\tYou peer through the giant
+    ferns toward a grassy plain. Your eyes grow wide. You can\u2019t believe it. Lumbering
+    toward you is \u2014 a Tyrannosaurus rex!\n\n\tPress 1 if you dare to go on."
+  nextStates:
+  - {fileID: 11400000, guid: c905dba892298274eb58b173f203ef57, type: 2}

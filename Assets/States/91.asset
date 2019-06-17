@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 91
+  m_EditorClassIdentifier: 
+  storyText: "\tYou roll right into the knight\u2019s path.\r\n\t\u201CEEEYOW!\u201D
+    the knight cries as you hit him hard. He falls over backward, and Denny sails
+    out of his arms.\r\n\tDenny cries out as he hits the roof. But he immediately
+    scrambles to his feet.\r\n\t\u201CQuick!\u201D you tell Denny. \u201CUntie my
+    hands! We\u2019ve got to get out of here!\u201D\r\n\t\u201CYou\u2019re not the
+    boss of me!\u201D Denny says. But for once he actually does what you say.\r\n\tNow
+    the knight is on his feet again, his eyes burning with rage.\r\n\t\u201CI\u2019ll
+    destroy both of you!\u201D he bellows. He lunges for you and your brother.\n\n\n\tQuick!
+    Grab the chronometer and press 1!"
+  nextStates:
+  - {fileID: 11400000, guid: 2722a74a5bd3c5b4686e4b99fa341d4c, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 121
+  m_EditorClassIdentifier: 
+  storyText: "\tDenny screams in terror as the knight prepares to toss him to the
+    ground.\r\n\t\u201CStop!\u201D you yell. \u201CThat\u2019s King Ruthbert\u2019s
+    son, Ruthelford,\u201D you say.\r\n\tThe knight looks at you in surprise. \u201COf
+    course. Why do you think I\u2019m getting ready to dash his brains out?\u201D\r\n\t\u201CKing
+    Ruthbert will pay a huge ransom for him,\u201D you go on. \u201CMore gold and
+    jewels than you can imagine.\u201D\r\n\t\u201CIs that right?\u201D the knight
+    replies. \u201CHow do you know?\u201D\r\n\t\u201CI\u2019m an agent of the king,\u201D
+    you tell the knight. It\u2019s the first lie that enters your mind.\r\n\t\u201CReally?
+    Then why are your hands tied?\u201D the knight asks.\r\n\t\u201CWell, uh, er \u2026\u201D
+    You try to think of a good answer. \u201CUntie me and I\u2019ll show you!\u201D\r\n\tThe
+    knight looks you up and down. He draws his sword.\r\n\tOh, no! What\u2019s he
+    going to do?\n\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: f0ef777a0cd9d804aaf4efc3dfeffa69, type: 2}

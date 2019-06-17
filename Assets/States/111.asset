@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 111
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CWelcome to the rebel forces!\u201D Jarmal cries, shaking your
+    hand. He shows you a map of The City and explains the battle plan. \u201CThis
+    building beams power to all the robots,\u201D he says, pointing to a large plant
+    on the map. \u201CIf we can blow up this power plant, the robots will become helpless.\u201D\r\n\tNext,
+    Jarmal shows you a small, red box. \u201CThis box contains a special explosive,\u201D
+    he explains. \u201CIt must be placed within three feet of the power source.\u201D\r\n\tYou
+    follow Jarmal through the tunnel to a stairway leading to a park. Through the
+    trees you see the power plant. It\u2019s a tall, white, completely round building
+    with a large antenna extending from the roof.\r\n\tJarmal tells you that all entrances
+    are heavily guarded by robots. \u201CSince none of the robots will recognize you,
+    you\u2019ve been chosen to enter the power plant,\u201D he says.\r\n\t\u201CWhat?\u201D
+    you exclaim. \u201CYou want me to enter the power plant?\u201D\r\n\t\u201CDidn\u2019t
+    I mention it before?\u201D asks Jarmal. \u201COur entire plan depends on you.
+    Are you ready?\u201D\n\n\r\n\tAre you? Then press 1"
+  nextStates:
+  - {fileID: 11400000, guid: 66742d354475356408ff61d1fb95053f, type: 2}

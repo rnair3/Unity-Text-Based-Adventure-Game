@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 132
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CYou\u2019re not the boss of me!\u201D Denny says again. \u201CGo
+    ahead, Dad!\u201D\r\n\t\u201CPrepare to boil, spy!\u201D the knight on your right
+    side snarls. He starts to drag you to the edge of the platform.\r\n\t\u201CWait!\u201D
+    you cry. You look at the king. \u201CBefore you carry out the sentence, I have
+    something that belongs to your son.\u201D\r\n\t\u201CHalt!\u201D the king commands.
+    \u201CWhat is it?\u201D\r\n\t\u201CA valuable piece of jewelry,\u201D you say.
+    \u201CPlease allow me to give it to him.\u201D\r\n\t\u201CYeah!\u201D Denny says.
+    \u201CGive it to me!\u201D\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 5151505708ec99a4fb79f4c63386cf8e, type: 2}

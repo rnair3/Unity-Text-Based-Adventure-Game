@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CReady for what?\u201D you ask.\r\n\t\u201CWhy, to travel in
+    time, of course,\u201D he replies. \u201CYou\u2019ll be the first human in history
+    to use my traveling chronometer.\u201D\r\n\t\u201CChronometer?\u201D you echo.
+    \u201CWhat\u2019s that?\u201D\r\n\tHe points to the stopwatch around your neck.\r\n\t\u201CI
+    don\u2019t have time \u2014\u201D you start to say, but he interrupts again.\r\n\t\u201COf
+    course you have time!\u201D Dr. Peebles goes on. \u201CIt doesn\u2019t matter
+    how long you remain in the past or future. When you return to the present, it
+    will be the same moment that you left. It will be as if you weren\u2019t gone
+    at all.\u201D\r\n\t\u201CHow does this work?\u201D you ask, pointing to the stopwatch.\r\n\t\u201CIt\u2019s
+    easy,\u201D says Dr. Peebles. \u201CPress the button on the left side to travel
+    to the past. Press the button on the right for the future. To return to the present,
+    press the top button and the bottom button at the same time.\u201D\r\n\tCool!
+    you think. What if this guy\u2019s invention really works? Traveling in time would
+    be awesome!\r\n\t\u201CThere\u2019s no time to waste!\u201D Dr. Peebles says.
+    \u201CI\u2019m ready to begin the experiment now.\u201D\n\n\tHurry!!! Press 1
+    to continue...."
+  nextStates:
+  - {fileID: 11400000, guid: d77dbe39cc21c7c468daa7687fd95f96, type: 2}

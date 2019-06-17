@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 83
+  m_EditorClassIdentifier: 
+  storyText: "\tYou step through a door labeled TO KING RUTHBERT\u2019S THRONE ROOM
+    and climb a short flight of steps. At the top, you enter a huge stone room.\r\n\tColorful
+    tapestries hang on the walls between narrow, arch-shaped windows. Ladies in long
+    gowns sit on wooden benches. Around the room, knights in armor stand stiffly at
+    attention.\r\n\tAt the far end of the room, a wooden throne stands on a raised
+    platform. Sitting on the throne is a fat, bearded man wearing a red robe and gold
+    crown.\r\n\tKing Ruthbert, you realize.\r\n\tNext to him, on a smaller throne,
+    is a small person. His crown is too big and slips down over his face.\r\n\tA nearby
+    knight draws his sword and raises it to your throat. The sword lightly pricks
+    your skin.\r\n\t\u201CWhat are you doing here, stranger?\u201D the knight demands.\r\n\t\u201CI\u2019m
+    a traveler from the future,\u201D you quickly explain. \u201CI\u2019m looking
+    for my brother. He has red hair and \u2014\u201D\r\n\t\u201CSilence!\u201D the
+    knight shouts. \u201CI\u2019ll not listen to any more of your lies! You\u2019re
+    a spy for King Henry!\u201D\n\n\tPress 1 to see wat happens"
+  nextStates:
+  - {fileID: 11400000, guid: 6a269965009ac0e4893857b2ee09d655, type: 2}

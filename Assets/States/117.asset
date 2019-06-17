@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 117
+  m_EditorClassIdentifier: 
+  storyText: "\tYou\u2019d like to help the woman, but it\u2019s more important to
+    find Denny. You race out of the smoky room.\r\n\t\u201CHalt!\u201D the woman screams.
+    \u201CYou\u2019ve failed the knight test!\u201D\r\n\t\u201CWhat?\u201D\r\n\t\u201CI\u2019m
+    not really a helpless maiden,\u201D the woman explains. She breaks free of the
+    chains holding her to the wall. \u201CI\u2019m actually the dragon\u2019s keeper.
+    This is a test we set up for future knights. Anyone who refuses to try to rescue
+    the maiden fails.\u201D\r\n\t\u201CBut I don\u2019t want to be a knight!\u201D
+    you protest.\r\n\t\u201COf course you do,\u201D says the maiden. \u201COtherwise,
+    why would you be in this room?\u201D\r\n\t\u201CI\u2019m looking for my brother
+    \u2014\u201D you start to say, but it\u2019s no use.\r\n\tThe maiden snaps her
+    finger, and the dragon slithers into the room toward you!\n\n\n\tPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 315fbffa32a0ae444a4cc8d77bdaa364, type: 2}

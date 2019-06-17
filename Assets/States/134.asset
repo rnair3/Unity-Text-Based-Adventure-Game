@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0beed8e2cf70b144ebc572fd62907ff0, type: 3}
+  m_Name: 134
+  m_EditorClassIdentifier: 
+  storyText: "\tSomehow you\u2019ve got to talk Denny into coming back to the present
+    with you. But how?\r\n\tThen you get an idea. \u201CDenny,\u201D you say very
+    calmly. \u201CI\u2019m going back to Dr. Peebles\u2019s laboratory now. But I
+    don\u2019t want you to come with me.\u201D\r\n\t\u201CWhy not?\u201D Denny asks
+    suspiciously.\r\n\t\u201CIt\u2019s none of your business,\u201D you say as nastily
+    as you can. \u201CYou can come back later today \u2014 or tomorrow.\u201D\r\n\t\u201CNo!\u201D
+    Denny whines. \u201CI want to go back now.\u201D\r\n\t\u201CWell, you can\u2019t,\u201D
+    you say. \u201CI\u2019m going without you.\u201D\r\n\t\u201CNOOOO!\u201D he whines
+    louder. \u201CTake me with you!\u201D\r\n\t\u201CSorry.\u201D\r\n\t\u201CI\u2019ll
+    tell Mom!\u201D he insists. \u201CI\u2019ll tell her how you\u2019re always trying
+    to be the boss of me.\u201D\r\n\t\u201COh, all right,\u201D you say, trying to
+    sound disgusted. \u201CHold my hand, then.\u201D Looking pleased, Denny takes
+    your hand. You glance down at the chronometer. Forty-five seconds \u2014 plenty
+    of time to spare. And Denny doesn\u2019t even realize that he tricked himself!\n\n\n\n\tPress
+    1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 44b48ed426272b64592582e74bff8f63, type: 2}
